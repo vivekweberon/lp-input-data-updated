@@ -1,0 +1,8 @@
+default:
+  showcase:
+    menu: Showcase
+    properties:
+    sectionTitle: Showcase
+  homePageSectionsOrder: [description, showcase, realtor, contact]
+siteName:
+  - lp-bayrentals
