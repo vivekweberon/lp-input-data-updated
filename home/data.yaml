@@ -4,6 +4,8 @@ default:
     properties:
     sectionTitle: Showcase
   homePageSectionsOrder: [description, showcase, realtor, contact]
+  
 siteName:
-  - lp-bayrentals
   - lp-showcase
+  - lp-bestbuys
+  - lp-bayrentals

@@ -1,6 +1,8 @@
 ---
 siteName: 
   - lp-showcase
+  - lp-bestbuys
+  - lp-bayrentals
 default:
   realtor:
     photo: images/praveen.jpg
