@@ -6,3 +6,4 @@ default:
   homePageSectionsOrder: [description, showcase, realtor, contact]
 siteName:
   - lp-bayrentals
+  - lp-showcase
