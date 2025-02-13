@@ -63,4 +63,5 @@ siteOverrides:
       menu: 'Price & Features'
 siteName:
   - lp-showcase
+  - lp-bestbuys
   - lp-bayrentals
