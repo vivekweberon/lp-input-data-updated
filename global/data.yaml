@@ -1,8 +1,4 @@
 ---
-siteName: 
-  - lp-showcase
-  - lp-bestbuys
-  - lp-bayrentals
 default:
   realtor:
     photo: images/praveen.jpg
@@ -31,15 +27,6 @@ default:
         y: 3
         z: 10000
       pageType: lp
-
+siteName: 
+  - lp-showcase
 siteOverrides:
-  lp-showcase:
-    realtor:
-      photo: images/praveen.jpg
-      name: Praveen Kumar
-      company: Broker & Owner, WebERealty
-      id: "CA BRE License #: 01928307"
-      phone: "925-452-7483"
-      logo: images/YHSG-Final.png
-      menu: Realtor
-      sectionTitle: Get Instant Alerts on Coming Soon listings and homes NOT available offline.

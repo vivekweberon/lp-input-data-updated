@@ -39,29 +39,5 @@ default:
     line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
     line3: "praveen@weberealty.com"
 siteOverrides:
-  lp-bestbuys:
-    priceAndFeatures:
-      title1: 'Tracy Hills Residence-2'
-      title2: '$892,880'
-      beds: '4 Beds'
-      baths: '3.5 Baths'
-      homeType: 'Single-Home'
-      sqft: 'Building 2,914 sq/ft'
-      yearBuilt: 'Year Built: 2021'
-      price: 'HOA: $77/mo'
-      menu: 'Price & Features'
-  lp-bayrentals:
-    priceAndFeatures:
-      title1: 'Tracy Hills Residence-3'
-      title2: '$892,880'
-      beds: '4 Beds'
-      baths: '3.5 Baths'
-      homeType: 'Single-Home'
-      sqft: 'Building 2,914 sq/ft'
-      yearBuilt: 'Year Built: 2021'
-      price: 'HOA: $77/mo'
-      menu: 'Price & Features'
 siteName:
   - lp-showcase
-  - lp-bestbuys
-  - lp-bayrentals

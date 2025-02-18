@@ -5,17 +5,5 @@ default:
     sectionTitle: Showcase
   homePageSectionsOrder: [description, showcase, realtor, contact]
 siteOverrides:
-  lp-bayrentals:
-    showcase:
-      menu: Bayrentals
-      properties:
-      sectionTitle: Bayrentals
-  lp-bestbuys:
-    showcase:
-      menu: Bestbuys
-      properties:
-      sectionTitle: Bestbuys
 siteName:
   - lp-showcase
-  - lp-bestbuys
-  - lp-bayrentals
