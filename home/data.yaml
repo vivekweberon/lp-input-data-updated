@@ -1,9 +1,19 @@
-default:
-  showcase:
-    menu: Showcase
-    properties:
-    sectionTitle: Showcase
-  homePageSectionsOrder: [description, showcase, realtor, contact]
-siteOverrides:
+showcase:
+  menu: Showcase
+  properties:
+  sectionTitle: Showcase
+homePageSectionsOrder: [description, showcase, realtor, contact]
+siteSpecific:
+  lp-showcase:
+    showcase:
+      menu: Showcase111
+      properties:
+      sectionTitle: Showcase
+  lp-bayrentals:
+    showcase:
+      menu: Showcase111
+      properties:
+      sectionTitle: Showcase
 siteName:
   - lp-showcase
+  - lp-bayrentals
