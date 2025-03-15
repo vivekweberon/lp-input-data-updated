@@ -2,18 +2,12 @@ showcase:
   menu: Showcase
   properties:
   sectionTitle: Showcase
-homePageSectionsOrder: [description, showcase, realtor, contact]
+homePageSectionsOrder: [ showcase, realtor]
 siteSpecific:
-  lp-showcase:
-    showcase:
-      menu: Showcase111
-      properties:
-      sectionTitle: Showcase
   lp-bayrentals:
     showcase:
-      menu: Showcase111
+      menu: Showcase122
       properties:
-      sectionTitle: Showcase
+      sectionTitle: Showcase1
 siteName:
-  - lp-showcase
   - lp-bayrentals
