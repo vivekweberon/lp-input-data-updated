@@ -1,7 +1,7 @@
 ---
 realtor:
   photo: images/praveen.jpg
-  name: Vivek
+  name: Praveen
   company: Broker & Owner, WebERealty
   id: "CA BRE License #: 01928307"
   phone: "925-452-7483"
@@ -15,7 +15,7 @@ footertext:
 page:
   title: Praveen Kumar - Your Home Sold Guaranteed.  
 contact:
-  menu: Contact you
+  menu: Contact
   mauticForm:
     formSetName: "showcase"
     emailFormHeader: "Access COMING SOON houses for SALE:"
