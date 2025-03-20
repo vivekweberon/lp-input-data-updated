@@ -10,7 +10,7 @@ realtor:
   logo: images/YHSG-Final.png
   menu: Realtor1
 chatbot:
-  enable: false
+  enable: true
 homePageSectionsOrder: [ showcase, contact , realtor]
 siteSpecific:
   lp-bayrentals:

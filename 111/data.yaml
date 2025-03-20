@@ -26,12 +26,12 @@ homePageData:
   price: ''
   listingPageURL: 
 chatbot:
-  enable: false
+  enable: true
 footertext:
   line1: "Information courtesy of Praveen Kumar 01928307 @ WebERealty"
   line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
   line3: "praveen@weberealty.com"
-propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, vivek ]
+propertyPageSectionsOrder: [ priceAndFeatures, virtualTour ]
 siteSpecific:
   lp-bayrentals:
       priceAndFeatures:
