@@ -54,10 +54,5 @@ description:
      * [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-2120ndonovanway-sanramon'))
 propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, realtor, description ]
 siteSpecific:
-  lp-bayrentals:
-      priceAndFeatures:
-        title1: 'Tracy Hills Residence-100'
-      footertext:
-        line1: "Information"
 siteName:
   - lp-bayrentals
