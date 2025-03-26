@@ -55,9 +55,8 @@ description:
 propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, realtor, description ]
 siteSpecific:
   lp-bayrentals:
-      priceAndFeatures:
-        title1: 'Tracy Hills Residence-100'
-      footertext:
-        line1: "Information"
+    priceAndFeatures:
+      title1: 'Tracy Hills Residence-1'
+      title2: '$892,880'
 siteName:
   - lp-bayrentals

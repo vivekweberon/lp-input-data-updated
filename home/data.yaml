@@ -2,16 +2,9 @@ showcase:
   menu: 
   properties:
   sectionTitle: Showcase
-realtor:
-  photo: images/praveen.jpg
-  company: Broker & Owner, WebERealty
-  id: "CA BRE License #: 01928307"
-  phone: "925-452-7483"
-  logo: images/YHSG-Final.png
-  menu: Realtor1
 chatbot:
   enable: true
-homePageSectionsOrder: [ showcase, contact , realtor]
+homePageSectionsOrder: [ showcase, contact, realtor ]
 siteSpecific:
   lp-bayrentals:
     showcase:
