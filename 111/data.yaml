@@ -54,9 +54,10 @@ description:
      * [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-2120ndonovanway-sanramon'))
 propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, realtor, description ]
 siteSpecific:
-  lp-showcase:
-    priceAndFeatures:
-      title1: 'Tracy Hills Residence-1'
-      title2: '$892,880'
+  lp-bayrentals:
+    virtualTour:
+      title: 'Vivek'
+      matterportID: "XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
+      menu: 'Virtual Tour1'
 siteName:
-  - lp-showcase
+  - lp-bayrentals
