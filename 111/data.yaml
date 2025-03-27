@@ -18,6 +18,9 @@ virtualTour:
 showcase:
   url: 
   menu: Showcase
+video:
+  youtubeVideoID: xjpQRTNhbwk
+  menu: Video
 homePageData:
   url: images/PLAN_1_IMG_01-Home.jpg
   addressLine1: 'Tracy Hills Residence-1'
@@ -52,7 +55,7 @@ description:
      * Low maintenance yard with stamped concrete, .artificial turf and attractive foliage for shade and privacy.
 
      * [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-2120ndonovanway-sanramon'))
-propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, realtor, description ]
+propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, video, realtor, description ]
 siteSpecific:
   lp-bayrentals:
     virtualTour:
