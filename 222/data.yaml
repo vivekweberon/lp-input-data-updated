@@ -38,9 +38,10 @@ footertext:
   line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
   line3: "praveen@weberealty.com"
 siteSpecific:
-  virtualTour:
-    title: 'Praveen'
-    matterportID: "XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
-    menu: 'Virtual Tour'
+  lp-showcase:
+    virtualTour:
+      title: 'Praveen'
+      matterportID: "XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
+      menu: 'Virtual Tour'
 siteName:
   - lp-showcase
