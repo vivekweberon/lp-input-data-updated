@@ -4,7 +4,7 @@ showcase:
   sectionTitle: Showcase
 chatbot:
   enable: true
-homePageSectionsOrder: [ showcase ]
+homePageSectionsOrder: [ showcase, realtor, contact ]
 siteSpecific:
 siteName:
   - lp-showcase
