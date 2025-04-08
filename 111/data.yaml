@@ -11,8 +11,6 @@ priceAndFeatures:
   menu: 'Price1 & Features1'
 photos:
   menu: Photos
-page:
-  title: Praveen Kumar 
 virtualTour:
   title: 'Tracy Hills Residence-1'
   matterportID: "XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
@@ -20,9 +18,6 @@ virtualTour:
 showcase:
   url: 
   menu: Showcase
-video:
-  youtubeVideoID: xjpQRTNhbwk
-  menu: Video
 homePageData:
   url: images/PLAN_1_IMG_01-Home.jpg
   addressLine1: 'Tracy Hills Residence-1'
@@ -57,12 +52,12 @@ description:
      * Low maintenance yard with stamped concrete, .artificial turf and attractive foliage for shade and privacy.
 
      * [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-2120ndonovanway-sanramon'))
-propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, video, realtor, description ]
+propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, realtor, description ]
 siteSpecific:
-  lp-showcase:
+  lp-bayrentals:
     virtualTour:
       title: 'Vivek'
       matterportID: "XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
       menu: 'Virtual Tour1'
 siteName:
-  - lp-showcase
+  - lp-bayrentals

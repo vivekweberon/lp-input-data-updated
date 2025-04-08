@@ -4,9 +4,13 @@ showcase:
   sectionTitle: Showcase
 chatbot:
   enable: true
-homePageSectionsOrder: [ showcase, contact, realtor ]
+homePageSectionsOrder: [ showcase ]
 siteSpecific:
+  lp-bayrentals:
+    showcase:
+      menu: Showcase122
+      properties:
+      sectionTitle: Showcase1
 siteName:
   - lp-bayrentals
   - lp-showcase
-  - lp-bestbuys

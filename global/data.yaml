@@ -27,7 +27,16 @@ contact:
       z: 10000
     pageType: lp
 siteSpecific:
+  lp-bayrentals:
+    realtor:
+      photo: images/praveen.jpg
+      name: Vivek
+      company: Broker & Owner, WebERealty
+      id: "CA BRE License #: 01928307"
+      phone: "925-452-7483"
+      logo: images/YHSG-Final.png
+      menu: Realtor
+      sectionTitle: Get12 Instant Alerts on Coming Soon listings and homes NOT available online.
 siteName: 
   - lp-bayrentals
   - lp-showcase
-  - lp-bestbuys
