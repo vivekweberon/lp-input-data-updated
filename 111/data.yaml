@@ -11,6 +11,8 @@ priceAndFeatures:
   menu: 'Price1 & Features1'
 photos:
   menu: Photos
+page:
+  title: Praveen Kumar 
 virtualTour:
   title: 'Tracy Hills Residence-1'
   matterportID: "XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
