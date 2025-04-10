@@ -33,6 +33,19 @@ homePageData:
   listingPageURL: 
 chatbot:
   enable: true
+contact:
+  menu: Contact
+  sectionTitle: Contact
+  mauticForm:
+    formSetName: "showcase"
+    emailFormHeader: "Access COMING SOON houses for SALE:"
+    phoneFormHeader: "Best number to reach you?"
+    popupForm:
+      enable: true
+      x: 5000
+      y: 3
+      z: 10000
+    pageType: lp
 footertext:
   line1: "Information courtesy of Praveen Kumar 01928307 @ WebERealty"
   line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
