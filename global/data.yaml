@@ -1,11 +1,11 @@
 ---
 realtor:
-  photo: images/praveen.jpg
+  photo: praveen.jpg
   name: Praveen
   company: Broker & Owner, WebERealty
   id: "CA BRE License #: 01928307"
   phone: "925-452-7483"
-  logo: images/YHSG-Final.png
+  logo: YHSG-Final.png
   menu: Realtor
   sectionTitle: Get12 Instant Alerts on Coming Soon listings and homes NOT available online.
 footertext:
@@ -22,7 +22,7 @@ contact:
     emailFormHeader: "Access COMING SOON houses for SALE:"
     phoneFormHeader: "Best number to reach you?"
     popupForm:
-      enable: true
+      enable: false
       x: 5000
       y: 3
       z: 10000
