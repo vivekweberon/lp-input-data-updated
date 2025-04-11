@@ -22,6 +22,7 @@ virtualTour:
   matterportID: "mYQREqUonJt&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
   menu: 'Virtual Tour'
   sectionTitle: Virtual Tour
+propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, realtor, description ]
 showcase:
   url: 
   menu: Showcase
