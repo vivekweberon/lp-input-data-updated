@@ -8,3 +8,5 @@ homePageSectionsOrder: [ showcase, realtor, contact ]
 siteSpecific:
 siteName:
   - lp-showcase
+  - lp-bayrentals
+  - lp-bestbuys
