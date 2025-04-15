@@ -1,0 +1,55 @@
+---
+siteName:
+  - lp-showcase	
+home:
+  youtubeVideoID: # This is for background video and is not used
+  menu: Home
+priceAndFeatures:
+  title1: Awesome home for Sale in Windemere, San Ramon
+  title2: This Luxurious single family home in Windemere, San Ramon has a built area of 3,223 sq.ft. on a 5,928 sq.ft. lot. Spacious bedrooms with office room in the ground floor and loft upstairs. The backyard is ideal for entertainment and has a waterfall that gives you a soothing and relaxing environment. Within walking distance to the excellent Windemere schools and easy access to trails and parks.
+  beds: 4 Beds
+  baths: 3 Baths
+  homeType: Single Family Residence
+  sqft: Building 3,223 sq.ft
+  yearBuilt: 'Year Built: 2002'
+  price: '$2,139,000'
+  menu: Price & Features
+description:
+  sectionTitle: " "
+  content: >
+    ## Highlights of this Luxurious home in San Ramon are:
+
+    1. Walking distance to:
+
+        1. Prestigious Windemre schools: Dougherty Valley High School & Windemere Ranch Middle School.
+        2. Hiking trails and parks.
+
+    2. Spacious family room with fireplace and a separate living room.
+
+    3. Tranquil backyard with waterfall for a quite environment to relax.
+
+    4. Solar system that is almost fully paid-off.
+    
+    5. Whole house water softener system.
+
+    6. Electric Vehicle charging port (Level 2 charger) in the garage.
+
+    ## [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-1477-allanmeredr-sanramon'))
+photos:
+  menu: Photos
+video:
+  sectionTitle: " "
+  youtubeVideoID: 6mZHkjM9evw
+  menu: Video
+virtualTour:
+  title: 'Awesome Single Family Residence in Windemere'
+  matterportID: fp83r7J6ekZ
+  menu: Virtual Tour
+homePageData:
+  url: images/Luxurious-San-Ramon-Home-Bathroom-1-A4.jpg
+  addressLine1: 'Luxurious Single family Residence in Windemere San Ramon'
+  addressLine2: ''
+  bedsAndBaths: '4 Bed 3 Bath'
+  price: ''
+  listingPageURL:
+propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, video, contact, realtor]

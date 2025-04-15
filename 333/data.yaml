@@ -1,42 +1,35 @@
 ---
+siteName:
+  - lp-showcase	
 home:
-  youtubeVideoID: xjpQRTNhbwk
+  youtubeVideoID: -GFTSw0RN78
   menu: Home
 priceAndFeatures:
-  title1: 'Tracy Hills Residence-1'
-  title2: '$892,880'
-  beds: '4 Beds'
-  baths: '3.5 Baths'
-  homeType: 'Single-Home'
-  sqft: 'Building 2,914 sq/ft'
+  title1: 'Tracy Hills Residence-3'
+  title2: '$967,880' 
+  beds: 5 Beds
+  baths: 4.5 Baths
+  homeType: Single-Home
+  sqft: Building 3,919 sq/ft
   yearBuilt: 'Year Built: 2021'
-  price: 'HOA: $77/mo'
-  menu: 'Price & Features'
+  price: 'HOA: $77/mo'  
+  menu: Price & Features
 photos:
   menu: Photos
 video:
-  youtubeVideoID: xjpQRTNhbwk
+  youtubeVideoID: -GFTSw0RN78
   menu: Video
 virtualTour:
-  sectionTitle: Virtual Tour
-  matterportID: "XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0"
-  menu: 'Virtual Tour'
+  title: 'Tracy Hills Residence-3'
+  matterportID: 3yWf7GPATaa&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0
+  menu: Virtual Tour
 showcase:
   url: 
   menu: Showcase
 homePageData:
-  url: images/PLAN_1_IMG_01-Home.jpg
-  addressLine1: 'Tracy Hills Residence-1'
+  url: images/PLAN3IMG01-Home.jpg
+  addressLine1: 'Tracy Hills Residence-3'
   addressLine2: ''
   bedsAndBaths: ''
   price: ''
-  listingPageURL: 
-chatbot:
-  enable: true
-footertext:
-  line1: "Information courtesy of Praveen Kumar 01928307 @ WebERealty"
-  line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
-  line3: "praveen@weberealty.com"
-siteSpecific:
-siteName:
-  - lp-showcase
+  listingPageURL:
