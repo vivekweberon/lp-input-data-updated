@@ -52,7 +52,7 @@ description:
      * Low maintenance yard with stamped concrete, .artificial turf and attractive foliage for shade and privacy.
 
      * [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-2120ndonovanway-sanramon'))
-propertyPageSectionsOrder: "price"
+propertyPageSectionsOrder: [ priceAndFeatures, virtualTour, realtor, description ]
 siteSpecific:
 siteName:
   - lp-showcase
