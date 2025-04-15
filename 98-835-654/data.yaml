@@ -29,4 +29,4 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
-propertyPageSectionsOrder: [priceAndFeatures, description, contact, virtualTour, realtor]  
+propertyPageSectionsOrder: [priceAndFeatures, contact, realtor]  
