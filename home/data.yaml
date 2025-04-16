@@ -7,7 +7,7 @@ showcase:
   sectionTitle: Showcase
 homePageSectionsOrder: [showcase, contact, realtor]
 siteSpecific:
-  lp-bayrentals:
+  lp-bestbuys:
     showcase:
       menu: Bestbuys
       properties:
