@@ -1,0 +1,40 @@
+---
+siteName:
+  - lp-bayrentals	
+home:
+  youtubeVideoID: TLwVeet1OAY
+  menu: Home
+priceAndFeatures:
+  title1: 'Enjoy "home" living in San Jose, CA while renting your own room.'
+  title2: "Gorgeous home in San Jose for RENT. Live in the privacy of your own room while enjoying a single family home. Gorgeous views of Evergreen hills from the newly built deck. Shared kitchen, family room, dining and living areas. Easy access to Hwys 101, 85 and 87. Enrich your lifestyle while working in the heart of Silicon Valley - Close to Great Oaks park. Schedule your visit today."
+  beds: 4 Beds 
+  baths: 3 Baths
+  homeType: Single Family Residence
+  sqft: 'Built Area: 2,020 sq.ft, Lot: 6,324 sq.ft'
+  yearBuilt: 'Year Built: 1980'
+  price: 'Rent $1,100 per room per month. Master bedroom with attached bath at $1,600'
+  menu: Price & Features
+photos:
+  menu: Photos
+virtualTour:
+  title: '4822 Plainfield Dr, San Jose, CA 95111'
+  matterportID: gcyRQ1Aywfp
+  menu: Virtual Tour
+homePageData:
+  url: Thumbnail-A2-4822-plainfield.jpg
+  addressLine1: 'Enjoy "home" living in San Jose, CA while renting your own room.'
+  addressLine2: '4 bedrooms, 3 bath.'
+  bedsAndBaths: '$1,100/Room/Month. Master bedroom with attached bath at $1,600/Room/Month'
+  price: ''
+  listingPageURL:
+realtor:
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:" 
+  footerLinkText: APPLY ONLINE
+  footerLink: https://propertymanage.biz/apps/application_occupants.php?listing_id=59338394&u=

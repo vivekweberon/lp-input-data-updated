@@ -1,0 +1,54 @@
+---
+siteName:
+  - lp-bayrentals
+priceAndFeatures:
+  title1: "Rent: Master Bedroom with attached bath $950/month, Bedroom with shared bathroom $650/month."
+  title2: ""
+  beds: 5 Beds
+  baths: 3 Baths
+  homeType: Single Family Residence
+  sqft: 'Master Bedroom & Private Bath: $950 per month'
+  yearBuilt: '2022'
+  price: 'Bedroom with shared bathroom: $650 per month.'
+  menu: Price & Features
+description:
+  sectionTitle: 'RENT a room in this Brand New Home!'
+  content: >
+     
+     * This home has open floor plan in the kitchen and dining area, stainless steel appliances, a large pantry. 
+
+     * The Master Suite is spacious with a walk-in closet and master bath featuring dual sinks, tile floors & a stall shower. 
+     
+     * The common bath has tile floors & a shower over the tub. 
+     
+     * Wired with Smart-Home devices to keep you secure. 
+     
+     ####  An Absolutely Gorgeous Home for your quiet enjoyment!
+photos:
+  menu: Photos
+virtualTour:
+  sectionTitle: ''
+  title: 'Rent a ROOM in this Brand New Home'
+  matterportID: qBmkB9jqYis
+  menu: Virtual Tour
+homePageData:
+  url: A001.jpg
+  addressLine1: 'Gorgeous Home for RENT in Merced'
+  addressLine2: '736 Jessie Dr, Merced, CA.'
+  bedsAndBaths: '5 Bed, 3 Bath'
+  price: 'Rent, Master Bedroom with attached bath $950/month, Bedroom with shared bathroom $650/month.'
+  listingPageURL:
+realtor:
+    photo: praveen.jpg
+    logo: TransparentPixel.png
+    name: Praveen Kumar
+    company: Broker & Owner, WebERealty
+    id: "CA BRE License #: 01928307"
+    phone: "925-452-7483"
+    menu: Realtor
+    sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
+    footerLinkText: APPLY ONLINE
+    footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59450231&u='
+page:
+  title: 'RENT a large room in this Newly built House in Merced!'   
+propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, video, contact, realtor]

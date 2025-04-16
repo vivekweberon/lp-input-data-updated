@@ -1,6 +1,7 @@
 ---
 siteName:
   - lp-showcase	
+  - lp-bayrentals	
 home:
   youtubeVideoID: DPV2v2-Bh2s
   menu: Home
@@ -30,5 +31,8 @@ homePageData:
   bedsAndBaths: '$5,200 per month + optional garage/storage.'
   price: ''
   listingPageURL:
+siteSpecific:
+  lp-bayrentals:
+    video:
   
   

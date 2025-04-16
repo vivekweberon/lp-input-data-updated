@@ -2,6 +2,7 @@
 siteName:
   - lp-showcase
   - lp-bestbuys
+  - lp-bayrentals
 realtor:
   photo: praveen.jpg
   name: Praveen Kumar
@@ -50,6 +51,30 @@ siteSpecific:
       mauticForm:
         formSetName: "bestbuys"
         emailFormHeader: "Access COMING SOON houses for SALE:"
+        phoneFormHeader: "Best number to reach you?"
+        popupForm:
+          enable: false
+          x: 5000
+          y: 3
+          z: 10000
+        pageType: lp
+  lp-bayrentals:
+    realtor:
+      photo: praveen.jpg
+      name: Praveen Kumar
+      company: Broker & Owner, WebERealty
+      id: "CA BRE License #: 01928307"
+      phone: "925-452-7483"
+      logo: YHSG-Final.png
+      menu: Realtor
+      sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
+    page:
+      title: Rentals in Bay Area
+    contact:
+      menu: Contact
+      mauticForm:
+        formSetName: "bayrentals"
+        emailFormHeader: "Request Private Showing:"
         phoneFormHeader: "Best number to reach you?"
         popupForm:
           enable: false

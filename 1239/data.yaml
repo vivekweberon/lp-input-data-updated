@@ -1,6 +1,7 @@
 ---
 siteName:
-  - lp-showcase	
+  - lp-showcase
+  - lp-bayrentals	
 home:
   youtubeVideoID: 3nVSG5O_D-M
   menu: Home
@@ -30,5 +31,7 @@ homePageData:
   bedsAndBaths: '$4,500 per month + optional garage/storage.'
   price: ''
   listingPageURL:
-  
+siteSpecific:
+  lp-bayrentals:
+    video:  
   

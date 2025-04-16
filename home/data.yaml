@@ -1,6 +1,7 @@
 siteName:
   - lp-showcase
   - lp-bestbuys
+  - lp-bayrentals
 showcase:
   menu: Showcase
   properties:
@@ -12,3 +13,8 @@ siteSpecific:
       menu: Bestbuys
       properties:
       sectionTitle: Best Buys of the Week
+  lp-bayrentals:
+    showcase:
+      menu: Rentals
+      properties: 
+      sectionTitle: Rentals in Bay Area

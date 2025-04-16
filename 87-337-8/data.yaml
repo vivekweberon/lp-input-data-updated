@@ -1,0 +1,49 @@
+---
+siteName:
+  - lp-bayrentals
+priceAndFeatures:
+  title1: "Rent a Room with high ceiling, kitchen & Private bathroom in Union City."
+  title2: "Fully furnished & ready to move-in; Walk to the BART station."
+  beds: 1 Bed
+  baths: 1 Bath
+  homeType: "Kitchen with limited cooking privileges"
+  sqft: 'Access to community swimming pool'
+  yearBuilt: '2006'
+  price: 'Rent: $1750 per month'
+  menu: Price & Features
+description:
+  sectionTitle: 'RENT a room in this Brand New Home!'
+  content: >
+     
+     * Fully furnished bedroom and bathroom in Union City.
+
+     * Rent this gorgeous room in a 4 bedroom townhome with kitchen privileges and shared family room.
+     
+     * Walk to BART sations. No need to own a car, but if you do, 1 car parking is included.     
+photos:
+  menu: Photos
+virtualTour:
+  sectionTitle: 'Private room & facilities for rent in Union City, CA.'
+  matterportID: ttsVJdJQBgF
+  menu: Virtual Tour
+homePageData:
+  url: 50-Dining.jpg
+  addressLine1: "RENT a Room with high ceiling, kitchen & Private bathroom in Union City, $1750/month"
+  addressLine2: '1042 Chalcedony Ter., Union City, CA.'
+  bedsAndBaths: '1 Bed, 1 Bath'
+  price: "$1750 per month"
+  listingPageURL:
+realtor:
+    photo: praveen.jpg
+    logo: TransparentPixel.png
+    name: Praveen Kumar
+    company: Broker & Owner, WebERealty
+    id: "CA BRE License #: 01928307"
+    phone: "925-452-7483"
+    menu: Realtor
+    sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
+    footerLinkText: APPLY ONLINE
+    footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59602217&u=49310'
+page:
+  title: "Rent a Room with high ceiling, kitchen & Private bathroom in Union City, $1750/month"
+propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, contact, realtor]
