@@ -21,7 +21,7 @@ priceAndFeatures:
 photos:
   menu: Photos
 homePageData:
-  url: images/discovery_bay.jpg
+  url: discovery_bay.jpg
   addressLine1: 'Elegant Discovery Bay Single Family Home!'
   addressLine2: ''
   bedsAndBaths: ''

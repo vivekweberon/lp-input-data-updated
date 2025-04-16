@@ -32,12 +32,12 @@ contact:
 siteSpecific:
   lp-bestbuys:
     realtor:
-      photo: images/praveen.jpg
+      photo: praveen.jpg
       name: Praveen Kumar
       company: Broker & Owner, WebERealty
       id: "CA BRE License #: 01928307"
       phone: "925-452-7483"
-      logo: images/YHSG-Final.png
+      logo: YHSG-Final.png
       menu: Realtor
       sectionTitle: Courtesy Of
       footerText: More info on our Guarantee at

@@ -7,15 +7,13 @@ video:
   youtubeVideoID: joEu2gHm970
 priceAndFeatures:
   menu: Summary
-  title2: "This expansive 3701 sq. ft. residence on a 1.07 Acre lot in Hayward, California, offers a harmonious blend of space and comfort. The two-story home boasts 5 bedrooms and 3 bathrooms, providing ample room for family living or guest accommodation. The generously spaced primary bedroom serves as a private retreat within the home.
-"
+  title2: "This expansive 3701 sq. ft. residence on a 1.07 Acre lot in Hayward, California, offers a harmonious blend of space and comfort. The two-story home boasts 5 bedrooms and 3 bathrooms, providing ample room for family living or guest accommodation. The generously spaced primary bedroom serves as a private retreat within the home."
   beds: 5 Beds
   baths: 3 Baths
   homeType: Single Family
   sqft: Building 3,701 sq/ft on 1.07 Acre lot
   yearBuilt: 'Year Built: 1987'
   price: 'Luxury Living'
-
 description:
   menu: Features
   sectionTitle: Features
@@ -26,14 +24,13 @@ description:
     * Fireplaces in Family Room, Living Room and Master Bedroom
 
     * Spacious Backyard with Deck and Play area
-
 photos:
   menu: Photos
 virtualTour:
   menu: Virtual Tour
   matterportID: 7evZMbzQ1gK
 homePageData:
-  url: images/44-Family-Room2.jpg
+  url: 44-Family-Room2.jpg
   addressLine1: 'Luxurious Country Club Hayward'
   addressLine2: ''
   bedsAndBaths: ''
