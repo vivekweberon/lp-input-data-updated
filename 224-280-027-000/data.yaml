@@ -51,4 +51,4 @@ realtor:
     footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59450231&u='
 page:
   title: 'RENT a large room in this Newly built House in Merced!'   
-propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, video, contact, realtor]
+propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, contact, realtor]
