@@ -1,0 +1,24 @@
+---
+siteName:
+  - lp-bestbuys	
+propertyPageSectionsOrder: [photos, priceAndFeatures, contact, realtor]
+priceAndFeatures:
+  title1: Fremont, CA 94538
+  title2: "$1,788,888"
+  beds: 4 Beds
+  baths: 3 Baths
+  homeType: Single Family Residence
+  sqft: Building 2504 sq/ft
+  yearBuilt: 'Year Built: 1992'
+  price: 'HOA: NA'
+  menu: Price & Features
+photos:
+  menu: Photos
+homePageData:
+  url: images/a0-5136-SilverReef-Dr.jpg
+  addressLine1: 'Spacious Fremont Single Family Home!'
+  addressLine2: ''
+  bedsAndBaths: ''
+  price: ''
+  listingPageURL:
+  

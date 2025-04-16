@@ -1,0 +1,29 @@
+---
+siteName:
+  - lp-bestbuys
+propertyPageSectionsOrder: [priceAndFeatures, virtualTour, photos, contact, realtor]
+home:
+  menu: Home
+virtualTour:
+  title: Discovery Bay, CA 94505
+  matterportID: 57TqrkccJsy&help=0&hl=2&brand=0&hr=0&mls=2&title=0&pin=0&portal=0
+  menu: Virtual Tour
+priceAndFeatures:
+  title1: Discovery Bay, CA 94505
+  title2: "$874,900"
+  beds: 4 Beds
+  baths: 3 Baths
+  homeType: Single Family Residence
+  sqft: Building 2455 sq.ft on 7,320 sq.ft lot
+  yearBuilt: 'Year Built: 1987'
+  price: 'HOA: $160'
+  menu: Price & Features
+photos:
+  menu: Photos
+homePageData:
+  url: images/discovery_bay.jpg
+  addressLine1: 'Elegant Discovery Bay Single Family Home!'
+  addressLine2: ''
+  bedsAndBaths: ''
+  price: ''
+  listingPageURL:

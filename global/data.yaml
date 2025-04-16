@@ -1,6 +1,7 @@
 ---
 siteName:
   - lp-showcase
+  - lp-bestbuys
 realtor:
   photo: praveen.jpg
   name: Praveen Kumar
@@ -28,3 +29,31 @@ contact:
       y: 3
       z: 10000
     pageType: lp
+siteSpecific:
+  lp-bestbuys:
+    realtor:
+      photo: images/praveen.jpg
+      name: Praveen Kumar
+      company: Broker & Owner, WebERealty
+      id: "CA BRE License #: 01928307"
+      phone: "925-452-7483"
+      logo: images/YHSG-Final.png
+      menu: Realtor
+      sectionTitle: Courtesy Of
+      footerText: More info on our Guarantee at
+      footerLinkText: EastBayGuaranteedSale.com
+      footerLink: https://www.weberealty.com/lp-ebgs.html
+    page:
+      title: Praveen Kumar - Your Home Sold Guaranteed or I"ll Buy it!
+    contact:
+      menu: Contact
+      mauticForm:
+        formSetName: "bestbuys"
+        emailFormHeader: "Access COMING SOON houses for SALE:"
+        phoneFormHeader: "Best number to reach you?"
+        popupForm:
+          enable: false
+          x: 5000
+          y: 3
+          z: 10000
+        pageType: lp

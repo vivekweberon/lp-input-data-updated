@@ -1,7 +1,14 @@
 siteName:
   - lp-showcase
+  - lp-bestbuys
 showcase:
   menu: Showcase
   properties:
   sectionTitle: Showcase
 homePageSectionsOrder: [showcase, contact, realtor]
+siteSpecific:
+  lp-bestbuys:
+    showcase:
+      menu: Bestbuys
+      properties:
+      sectionTitle: Best Buys of the Week
