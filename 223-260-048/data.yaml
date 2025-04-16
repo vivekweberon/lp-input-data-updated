@@ -43,16 +43,16 @@ homePageData:
   price: '$3,250 per month'
   listingPageURL:
 realtor:
-    photo: praveen.jpg
-    logo: TransparentPixel.png
-    name: Praveen Kumar
-    company: Broker & Owner, WebERealty
-    id: "CA BRE License #: 01928307"
-    phone: "925-452-7483"
-    menu: Realtor
-    sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
-    footerLinkText: APPLY ONLINE
-    footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59447186&u='
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
+  footerLinkText: APPLY ONLINE
+  footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59447186&u='
 page:
   title: 'Home in Windemere for RENT'
 propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, contact, realtor]

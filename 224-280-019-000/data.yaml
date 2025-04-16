@@ -31,16 +31,16 @@ homePageData:
   price: '$2,475 per month'
   listingPageURL:
 realtor:
-    photo: praveen.jpg
-    logo: TransparentPixel.png
-    name: Praveen Kumar
-    company: Broker & Owner, WebERealty
-    id: "CA BRE License #: 01928307"
-    phone: "925-452-7483"
-    menu: Realtor
-    sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
-    footerLinkText: APPLY ONLINE
-    footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59429758&u='
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
+  footerLinkText: APPLY ONLINE
+  footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59429758&u='
 page:
   title: 'Brand New Home for RENT in Merced'   
 propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, contact, realtor]
