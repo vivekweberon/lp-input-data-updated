@@ -1,7 +1,7 @@
 ---
 siteName:
   - lp-bestbuys
-propertyPageSectionsOrder: [priceAndFeatures, virtualTour, photos, contact, realtor]
+propertyPageSectionsOrder: "Vivek"
 home:
   menu: Home
 virtualTour:
@@ -19,7 +19,7 @@ priceAndFeatures:
   price: 'HOA: $160'
   menu: Price & Features
 photos:
-  menu: Photos
+  menu: Photos  
 homePageData:
   url: discovery_bay.jpg
   addressLine1: 'Elegant Discovery Bay Single Family Home!'
