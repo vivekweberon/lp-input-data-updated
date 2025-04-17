@@ -1,9 +1,6 @@
 ---
-siteName: lp-showcase
-siteSpecific:
-  lp-showcase:
-    home:
-      menu: Home
+siteName:
+  - lp-bestbuys
 propertyPageSectionsOrder: [priceAndFeatures, virtualTour, photos, contact, realtor]
 home:
   menu: Home
