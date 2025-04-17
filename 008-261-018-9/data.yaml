@@ -1,6 +1,5 @@
 ---
-siteName:
-  - lp-bestbuys
+siteName: "Vivek"
 propertyPageSectionsOrder: "Vivek"
 home:
   menu: Home
@@ -11,9 +10,9 @@ virtualTour:
 priceAndFeatures:
   title1: Discovery Bay, CA 94505
   title2: "$874,900"
-  beds: 4 Beds
-  baths: 3 Baths
-  homeType: Single Family Residence
+  beds: 3
+  baths: 3
+  homeType: 3
   sqft: Building 2455 sq.ft on 7,320 sq.ft lot
   yearBuilt: 'Year Built: 1987'
   price: 'HOA: $160'
