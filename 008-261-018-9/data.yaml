@@ -1,5 +1,9 @@
 ---
 siteName: lp-showcase
+siteSpecific:
+  lp-showcase:
+    home:
+      menu: Home
 propertyPageSectionsOrder: [priceAndFeatures, virtualTour, photos, contact, realtor]
 home:
   menu: Home
