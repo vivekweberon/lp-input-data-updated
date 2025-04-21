@@ -7,6 +7,8 @@ showcase:
   properties:
   sectionTitle: Showcase
 homePageSectionsOrder: [showcase, contact, realtor]
+chatbot:
+  enable: true
 siteSpecific:
   lp-bestbuys:
     showcase:

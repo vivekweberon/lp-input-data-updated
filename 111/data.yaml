@@ -33,3 +33,5 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
+chatbot:
+  enable: true

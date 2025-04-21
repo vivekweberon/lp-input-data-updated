@@ -30,6 +30,8 @@ contact:
       y: 3
       z: 10000
     pageType: lp
+chatbot:  
+  enable: true
 siteSpecific:
   lp-bestbuys:
     realtor:
