@@ -35,3 +35,4 @@ homePageData:
   listingPageURL:
 chatbot:
   enable: true
+  chatbotDFAgent: ''

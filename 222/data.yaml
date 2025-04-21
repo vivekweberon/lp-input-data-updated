@@ -33,3 +33,6 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
+chatbot:
+  enable: true
+  chatbotDFAgent: 'default'

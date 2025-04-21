@@ -9,6 +9,7 @@ showcase:
 homePageSectionsOrder: [showcase, contact, realtor]
 chatbot:
   enable: true
+  chatbotDFAgent: 'default'
 siteSpecific:
   lp-bestbuys:
     showcase:
