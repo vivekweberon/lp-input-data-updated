@@ -36,3 +36,15 @@ homePageData:
 chatbot:
   enable: true
   chatbotDFAgent: ''
+contact:
+  menu: Contact
+  mauticForm:
+    formSetName: "showcase"
+    emailFormHeader: "Access COMING SOON houses for SALE:"
+    phoneFormHeader: "Best number to reach you?"
+    popupForm:
+      enable: true
+      x: 5000
+      y: 3
+      z: 10000
+    pageType: lp
