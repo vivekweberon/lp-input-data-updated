@@ -22,8 +22,7 @@ virtualTour:
   title: '36184 Potel Cmn, Fremont, CA 94536'
   matterportID: WRUxVoHjY8i
   menu: Virtual Tour
-showcase:
-  url:
+homePageNavigation:
   menu: Showcase
 homePageData:
   url: 32_225314.jpg

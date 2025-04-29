@@ -34,8 +34,7 @@ virtualTour:
   title: San Ramon, CA 94582
   matterportID: TrGwES3vmzu&title=0
   menu: Virtual Tour
-showcase:
-  url: 
+homePageNavigation:
   menu: Showcase
 homePageData:
   url: A002-doowelra004-living-1-4.jpg

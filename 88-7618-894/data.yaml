@@ -23,8 +23,7 @@ virtualTour:
   title: Fremont, CA 94536
   matterportID: AquafMTVuqx
   menu: Virtual Tour
-showcase:
-  url: 
+homePageNavigation:
   menu: Showcase
 homePageData:
   url: A01-Fremont-Blvd-Townhome-Living-Room-576x324.jpg

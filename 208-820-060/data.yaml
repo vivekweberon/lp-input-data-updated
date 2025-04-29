@@ -19,8 +19,7 @@ virtualTour:
   title: 518 Caprio Ct, San Ramon, CA 94583
   matterportID: rrbAygC4Lxs
   menu: Virtual Tour
-showcase:
-  url: 
+homePageNavigation:
   menu: Showcase
 homePageData:
   url: 01-Living-Room.jpg

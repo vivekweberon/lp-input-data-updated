@@ -23,8 +23,7 @@ virtualTour:
   title: 'Tracy Hills Residence-2'
   matterportID: rsL5Dm9npLp&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0
   menu: Virtual Tour
-showcase:
-  url: 
+homePageNavigation:
   menu: Showcase
 homePageData:
   url: PLAN_2_IMG_01-Home.jpg

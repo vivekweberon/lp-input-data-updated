@@ -17,8 +17,7 @@ virtualTour:
   title: "39622 Trinity Way, Fremont, CA, 94538"
   matterportID: aFNyZgpDGGK
   menu: Virtual Tour
-showcase:
-  url: 
+homePageNavigation:
   menu: Showcase
 homePageData:
   url: A01-LivingRoom-576x324.jpg

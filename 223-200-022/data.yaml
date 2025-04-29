@@ -19,8 +19,7 @@ virtualTour:
   title: 2120 N Donovan Way, San Ramon, CA 94582
   matterportID: 7iw81R2pGZS
   menu: Virtual Tour
-showcase:
-  url: 
+homePageNavigation:
   menu: Showcase
 homePageData:
   url: 01-Kitchen-Nook-Living.jpg
