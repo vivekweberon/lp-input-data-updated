@@ -15,8 +15,6 @@ priceAndFeatures:
   price: 'HOA: $77/mo'
   menu: Price & Features
 propertyPageSectionsOrder: [priceAndFeatures, virtualTour, contact, realtor]
-photos:
-  menu: Photos
 video:
   youtubeVideoID: 5Oj_oScPgSg
   menu: Video
