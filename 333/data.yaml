@@ -25,7 +25,15 @@ virtualTour:
   menu: Virtual Tour
 homePageNavigation:
   menu: Showcase
-propertyPageSectionsOrder: []
+realtor:
+  photo: praveen.jpg
+  name: Vivek
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  logo: YHSG-Final.png
+  menu: Realtor
+  sectionTitle: Get Instant Alerts on Coming Soon listings and homes NOT available online.
 homePageData:
   url: PLAN3IMG01-Home.jpg
   addressLine1: 'Tracy Hills Residence-3'
