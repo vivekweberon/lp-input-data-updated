@@ -7,7 +7,7 @@ showcase:
   menu: Showcase
   properties:
   sectionTitle: Showcase
-homePageSectionsOrder: [showcase, contact, realtor]
+homePageSectionsOrder: [showcase]
 chatbot:
   enable: true
   chatbotDFAgent: 'default'
