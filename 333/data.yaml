@@ -25,6 +25,7 @@ virtualTour:
   menu: Virtual Tour
 homePageNavigation:
   menu: Showcase
+propertyPageSectionsOrder: [priceAndFeatures, contact, photos, video, virtualTour, realtor]
 homePageData:
   url: PLAN3IMG01-Home.jpg
   addressLine1: 'Tracy Hills Residence-3'
