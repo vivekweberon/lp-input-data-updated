@@ -31,4 +31,4 @@ homePageData:
   addressLine2: ''
   bedsAndBaths: ''
   price: ''
-  listingPageURL:
+  listingPageURL: "https://google.com/"
