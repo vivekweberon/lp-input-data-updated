@@ -23,10 +23,10 @@ virtualTour:
   title: 'Tracy Hills Residence-4'
   matterportID: cRdhqTMC6wH&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0
   menu: Virtual Tour
-homePageNavigation:
+homePageLink: 
   menu: Showcase
 homePageData:
-  url: PLAN4IMG01-Home.jpg
+  imageName: PLAN4IMG01-Home.jpg
   addressLine1: 'Tracy Hills Residence-4'
   addressLine2: ''
   bedsAndBaths: ''

@@ -23,10 +23,10 @@ virtualTour:
   title: 34135 Tupelo St, Fremont, CA 94555
   matterportID: kBh39Pog1CM
   menu: Virtual Tour
-homePageNavigation:
+homePageLink: 
   menu: Showcase
 homePageData:
-  url: Ardenwood-1-Kitchen.jpg
+  imageName: Ardenwood-1-Kitchen.jpg
   addressLine1: 'Luxurious Living Ardenwood Fremont - SOLD!'
   addressLine2: ''
   bedsAndBaths: ''

@@ -14,7 +14,8 @@ priceAndFeatures:
   yearBuilt: 'Year Built: 2021'
   price: 'HOA: $77/mo'
   menu: Price & Features
-propertyPageSectionsOrder: [priceAndFeatures, virtualTour, contact, realtor]
+photos:
+  menu: Photos
 video:
   youtubeVideoID: 5Oj_oScPgSg
   menu: Video
@@ -22,15 +23,12 @@ virtualTour:
   title: 'Tracy Hills Residence-2'
   matterportID: rsL5Dm9npLp&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0
   menu: Virtual Tour
-homePageNavigation:
+homePageLink:
   menu: Showcase
 homePageData:
-  url: PLAN_2_IMG_01-Home.jpg
+  imageName: PLAN_2_IMG_01-Home.jpg
   addressLine1: 'Tracy Hills Residence-2'
   addressLine2: ''
   bedsAndBaths: ''
   price: ''
   listingPageURL:
-chatbot:
-  enable: true
-  chatbotDFAgent: 'default'

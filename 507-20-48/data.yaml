@@ -22,10 +22,10 @@ virtualTour:
   title: '36184 Potel Cmn, Fremont, CA 94536'
   matterportID: WRUxVoHjY8i
   menu: Virtual Tour
-homePageNavigation:
+homePageLink:
   menu: Showcase
 homePageData:
-  url: 32_225314.jpg
+  imageName: 32_225314.jpg
   addressLine1: Niles Canyon Fremont Townhome - SOLD!
   addressLine2: ''
   bedsAndBaths: ''

@@ -3,7 +3,6 @@ siteName:
   - lp-showcase
   - lp-bestbuys
   - lp-bayrentals
-  - lp-vivek
 realtor:
   photo: praveen.jpg
   name: Praveen Kumar
@@ -13,7 +12,7 @@ realtor:
   logo: YHSG-Final.png
   menu: Realtor
   sectionTitle: Get Instant Alerts on Coming Soon listings and homes NOT available online.
-footertext:
+footer:
   line1: Information courtesy of Praveen Kumar 01928307 @ WebERealty
   line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
   line3: praveen@weberealty.com
@@ -31,8 +30,6 @@ contact:
       y: 3
       z: 10000
     pageType: lp
-chatbot:  
-  enable: true
 siteSpecific:
   lp-bestbuys:
     realtor:

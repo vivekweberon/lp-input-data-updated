@@ -19,10 +19,10 @@ virtualTour:
   title: 518 Caprio Ct, San Ramon, CA 94583
   matterportID: rrbAygC4Lxs
   menu: Virtual Tour
-homePageNavigation:
+homePageLink:
   menu: Showcase
 homePageData:
-  url: 01-Living-Room.jpg
+  imageName: 01-Living-Room.jpg
   addressLine1: 'Panoramic sunrise in San Ramon!'
   addressLine2: ''
   bedsAndBaths: '4 bedroom 3 bath, 2,456 sq.ft on 7,570 sq.ft lot, HOA is $180/month.'

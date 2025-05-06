@@ -19,7 +19,7 @@ virtualTour:
   matterportID: zifCBdAGXpq
   menu: Virtual Tour
 homePageData:
-  url: 60-Kitchen.jpg
+  imageName: 60-Kitchen.jpg
   addressLine1: 'RENT a large room in this Newly built House in Merced!'
   addressLine2: '4 bedrooms, 2.5 baths, 2 car garage'
   bedsAndBaths: '$650/room/month, Master Bedroom with attached bath @$950/month' 

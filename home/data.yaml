@@ -2,24 +2,11 @@ siteName:
   - lp-showcase
   - lp-bestbuys
   - lp-bayrentals
-  - lp-vivek
 showcase:
   menu: Showcase
   properties:
   sectionTitle: Showcase
 homePageSectionsOrder: [showcase, contact, realtor]
-chatbot:
-  enable: true
-  chatbotDFAgent: 'default'
-realtor:
-  photo: praveen.jpg
-  name: Vivek
-  company: Broker & Owner, WebERealty
-  id: "CA BRE License #: 01928307"
-  phone: "925-452-7483"
-  logo: YHSG-Final.png
-  menu: Realtor
-  sectionTitle: Get Instant Alerts on Coming Soon listings and homes NOT available online.
 siteSpecific:
   lp-bestbuys:
     showcase:

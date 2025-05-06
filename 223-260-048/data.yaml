@@ -36,7 +36,7 @@ virtualTour:
   matterportID: FbC8sMQYMQ1
   menu: 'Virtual Tour'
 homePageData:
-  url: 00-Living-Room.jpg
+  imageName: 00-Living-Room.jpg
   addressLine1: 'Awesome Townhome in Windemere for RENT'
   addressLine2: '1713 Arianna Ln, San Ramon.'
   bedsAndBaths: '2 Bed, 2 Bath and 2 car attached garage.'

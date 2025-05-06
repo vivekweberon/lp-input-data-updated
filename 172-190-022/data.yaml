@@ -19,10 +19,10 @@ photos:
 video:
   youtubeVideoID: dvpLvbMNk40
   menu: Video
-homePageNavigation:
+homePageLink:
   menu: Showcase
 homePageData:
-  url: Walnut-Creek-Home-near-BART.jpg
+  imageName: Walnut-Creek-Home-near-BART.jpg
   addressLine1: 'Walnut Creek Home near BART'
   addressLine2: ''
   bedsAndBaths: ''

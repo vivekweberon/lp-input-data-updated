@@ -34,10 +34,10 @@ virtualTour:
   title: San Ramon, CA 94582
   matterportID: TrGwES3vmzu&title=0
   menu: Virtual Tour
-homePageNavigation:
+homePageLink:
   menu: Showcase
 homePageData:
-  url: A002-doowelra004-living-1-4.jpg
+  imageName: A002-doowelra004-living-1-4.jpg
   addressLine1: 'Awesome San Ramon Home'
   addressLine2: ''
   bedsAndBaths: '4 Bedroom, 3 bath. 2494 sq.ft on 4011 sq.ft lot. Built in 2002'
