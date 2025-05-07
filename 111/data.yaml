@@ -43,3 +43,5 @@ siteSpecific:
       disable: true
     chatbot:
       disable: true
+    propertyPageSectionsOrder: [priceAndFeatures, virtualTour,video, photos, contact, realtor]
+    
