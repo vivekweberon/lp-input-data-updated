@@ -31,7 +31,7 @@ homePageData:
   addressLine2: ''
   bedsAndBaths: ''
   price: ''
-  listingPageURL: "https://google.com/"
+  listingPageURL:
 siteSpecific:
   lp-showcase:
     video:
