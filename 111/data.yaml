@@ -16,6 +16,7 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+propertyPageSectionsOrder: [priceAndFeatures, virtualTour,video, photos, contact, realtor]
 video:
   youtubeVideoID: xjpQRTNhbwk
   menu: Video
@@ -39,7 +40,6 @@ siteSpecific:
     video:
       disable: true
     photos:
-      menu: Photos12
+      disable: true
     chatbot:
-      chatbotDFAgent: default
       disable: true
