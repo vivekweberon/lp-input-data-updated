@@ -43,6 +43,4 @@ siteSpecific:
       disable: true
     chatbot:
       disable: true
-    propertyPageSectionsOrder:
-      disable: true
     
