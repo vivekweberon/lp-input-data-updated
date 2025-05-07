@@ -37,4 +37,4 @@ siteSpecific:
     video:
       disable: true
     photos:
-      disable: true
+      menu: Photos12
