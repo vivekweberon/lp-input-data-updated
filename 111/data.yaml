@@ -33,7 +33,7 @@ homePageData:
   price: ''
   listingPageURL:
 chatbot:
-  chatbotDFAgent:
+  chatbotDFAgent: default
 siteSpecific:
   lp-showcase:
     video:
