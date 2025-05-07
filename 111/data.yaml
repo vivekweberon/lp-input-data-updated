@@ -32,6 +32,8 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
+chatbot:
+  chatbotDFAgent:
 siteSpecific:
   lp-showcase:
     video:
