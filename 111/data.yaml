@@ -39,6 +39,4 @@ siteSpecific:
   lp-showcase:
     chatbot:
       disable: true
-    propertyPageSectionsOrder:
-      disable: true
     
