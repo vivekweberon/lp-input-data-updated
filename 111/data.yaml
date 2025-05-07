@@ -37,10 +37,8 @@ chatbot:
   chatbotDFAgent: default
 siteSpecific:
   lp-showcase:
-    video:
-      disable: true
-    photos:
-      disable: true
     chatbot:
+      disable: true
+    propertyPageSectionsOrder:
       disable: true
     
