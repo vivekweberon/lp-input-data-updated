@@ -40,3 +40,6 @@ siteSpecific:
       disable: true
     photos:
       menu: Photos12
+    chatbot:
+      chatbotDFAgent: default
+      disable: true
