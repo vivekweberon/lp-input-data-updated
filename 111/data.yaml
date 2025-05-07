@@ -35,9 +35,6 @@ homePageData:
 siteSpecific:
   lp-showcase:
     video:
-      youtubeVideoID: xjpQRTNhbwk
-      menu: Video
       disable: true
     photos:
-      menu: Photos
       disable: true
