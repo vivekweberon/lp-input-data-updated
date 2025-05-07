@@ -32,3 +32,9 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL: "https://google.com/"
+siteSpecific:
+  lp-showcase:
+    video:
+      youtubeVideoID: xjpQRTNhbwk
+      menu: Video
+      disable: true
