@@ -36,7 +36,7 @@ homePageData:
 chatbot:
   chatbotDFAgent: default
 siteSpecific:
-  lp-showcase:
+  lp-vivek:
     chatbot:
       disable: true
     propertyPageSectionsOrder:
