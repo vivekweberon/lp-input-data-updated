@@ -13,6 +13,11 @@ siteSpecific:
       menu: Bestbuys
       properties:
       sectionTitle: Best Buys of the Week
+  lp-showcase:
+    showcase:
+      menu: Showcase - Testing
+      properties:
+      sectionTitle: Showcase - Testing
   lp-bayrentals:
     showcase:
       menu: Rentals
