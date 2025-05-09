@@ -13,11 +13,6 @@ siteSpecific:
       menu: Bestbuys
       properties:
       sectionTitle: Best Buys of the Week
-  lp-vivek:
-    showcase:
-      menu: Testing
-      properties:
-      sectionTitle: Best Buys of the Week - Testing
   lp-bayrentals:
     showcase:
       menu: Rentals
