@@ -1,6 +1,6 @@
 ---
 siteName:
-  - lp-vivek	
+  - lp-showcase	
 home:
   youtubeVideoID: xjpQRTNhbwk
   menu: Home
@@ -36,7 +36,7 @@ homePageData:
 chatbot:
   chatbotDFAgent: default
 siteSpecific:
-  lp-vivek:
+  lp-showcase:
     chatbot:
       disable: true
     propertyPageSectionsOrder:
