@@ -1,5 +1,6 @@
 ---
 siteName:
+  - lp-vivek	
 home:
   youtubeVideoID: xjpQRTNhbwk
   menu: Home
@@ -35,4 +36,14 @@ homePageData:
 chatbot:
   chatbotDFAgent: default
 siteSpecific:
+  lp-vivek:
+    chatbot:
+      disable: true
+    propertyPageSectionsOrder:
+      disable: true
+    realtor:
+      disable: true
+    home:
+      youtubeVideoID: xjpQRTNhbwk
+      menu: Home - Testing
     
