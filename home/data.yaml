@@ -18,6 +18,8 @@ siteSpecific:
       menu: Showcase - Testing
       properties:
       sectionTitle: Showcase - Testing
+    realtor:
+      disable: true
   lp-bayrentals:
     showcase:
       menu: Rentals
