@@ -6,7 +6,7 @@ showcase:
   menu: Showcase
   properties:
   sectionTitle: Showcase
-homePageSectionsOrder: [showcase, contact, realtor]
+homePageSectionsOrder: [realtor, showcase, contact]
 siteSpecific:
   lp-bestbuys:
     showcase:
