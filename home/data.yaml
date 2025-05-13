@@ -2,7 +2,7 @@ siteName:
   - lp-showcase
   - lp-bestbuys
   - lp-bayrentals
-  - lp-vivek
+  - lp-test
 showcase:
   menu: Showcase
   properties:
