@@ -16,13 +16,15 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
 video:
   youtubeVideoID: s6nIXXw4Ons
   menu: Video
+  sectionTitle: Video
 homePageLink:
   menu: Showcase
 homePageData:
-  imageName: a0-576x324-34228Northwind2020-12-07-16h48m22s151.jpg
+  imageName: a0-16h48m22s151.jpg
   addressLine1: 'Beautiful contemporary Fremont Home - SOLD!'
   addressLine2: ''
   bedsAndBaths: ''

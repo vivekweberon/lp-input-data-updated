@@ -2,25 +2,17 @@ siteName:
   - lp-showcase
   - lp-bestbuys
   - lp-bayrentals
-  - lp-test
 showcase:
   menu: Showcase
   properties:
   sectionTitle: Showcase
-homePageSectionsOrder: [showcase, realtor, contact]
+homePageSectionsOrder: [showcase, contact, realtor]
 siteSpecific:
   lp-bestbuys:
     showcase:
       menu: Bestbuys
       properties:
       sectionTitle: Best Buys of the Week
-  lp-showcase:
-    showcase:
-      menu: Showcase - Testing
-      properties:
-      sectionTitle: Showcase - Testing
-    realtor:
-      disable: true
   lp-bayrentals:
     showcase:
       menu: Rentals

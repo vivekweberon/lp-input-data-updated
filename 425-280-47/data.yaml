@@ -26,9 +26,11 @@ description:
     * Spacious Backyard with Deck and Play area
 photos:
   menu: Photos
+  sectionTitle: Photos
 virtualTour:
   menu: Virtual Tour
   matterportID: 7evZMbzQ1gK
+  sectionTitle: Virtual Tour
 homePageData:
   imageName: 44-Family-Room2.jpg
   addressLine1: 'Luxurious Country Club Hayward'

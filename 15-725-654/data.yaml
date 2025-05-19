@@ -16,17 +16,20 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
 video:
   youtubeVideoID: YjZS5GK4cOo
   menu: Video
+  sectionTitle: Video
 virtualTour:
   title: '5553 Via Lugano, Fremont, CA, 94555'
   matterportID: F2PBfhBuFjK&help=0&hl=2&brand=0&hr=0&mls=2&title=0&pin=0&portal=0
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageLink:
   menu: Showcase
 homePageData:
-  imageName: a4-576x324_5553ViaLugano2020-12-09-17h56m09s258.jpg
+  imageName: a4-17h56m09s258.jpg
   addressLine1: 'Luxury townhome in Ardenwood - SOLD!'
   addressLine2: ''
   bedsAndBaths: ''

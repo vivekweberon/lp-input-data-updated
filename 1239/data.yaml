@@ -17,15 +17,18 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
 video:
   youtubeVideoID: 3nVSG5O_D-M
   menu: Video
+  sectionTitle: Video
 virtualTour:
   title: '1239 Scott St, San Francisco, CA 94115'
   matterportID: mYQREqUonJt
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageData:
-  imageName: A2-1239-Scott-LivingRoom-2-576x324.jpg
+  imageName: A2-LivingRoom-2-576x324.jpg
   addressLine1: 'Italian Victorian home for RENT:     1239 Scott St, SFO.'
   addressLine2: '2 BR + formal dining & 1.5 bath'
   bedsAndBaths: '$4,500 per month + optional garage/storage.'
