@@ -35,3 +35,18 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
+contact:
+  menu: Contact
+  sectionTitle: Contact
+  mauticForm:
+    formSetName: "bestbuys"
+    emailFormHeader: "Access COMING SOON houses for SALE:"
+    phoneFormHeader: "Best number to reach you?"
+    name: pfbestbuys
+    id: "34"
+    popupForm:
+      enable: false
+      x: 5000
+      y: 3
+      z: 10000
+    pageType: lp
