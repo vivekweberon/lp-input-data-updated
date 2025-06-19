@@ -2,7 +2,7 @@
 siteName:
   - lp-showcase	
 home:
-  youtubeVideoID: # This is for background video and is not used
+  youtubeVideoID: 6mZHkjM9evw
   menu: Home
 priceAndFeatures:
   title1: Awesome home for Sale in Windemere, San Ramon
@@ -38,10 +38,6 @@ description:
 photos:
   menu: Photos
   sectionTitle: Photos
-video:
-  youtubeVideoID: 6mZHkjM9evw
-  menu: Video
-  sectionTitle: Video
 virtualTour:
   title: 'Awesome Single Family Residence in Windemere'
   matterportID: fp83r7J6ekZ
@@ -54,4 +50,4 @@ homePageData:
   bedsAndBaths: '4 Bed 3 Bath'
   price: ''
   listingPageURL:
-propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, video, contact, realtor]
+propertyPageSectionsOrder: [home, virtualTour, priceAndFeatures, description, photos, contact, realtor]

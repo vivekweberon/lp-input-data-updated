@@ -14,22 +14,9 @@ priceAndFeatures:
   yearBuilt: 'Year Built: 2021'
   price: 'HOA: $77/mo'
   menu: Price & Features
-realtor:
-  photo: praveen11.jpg
-  name: Praveen Kumar
-  company: Broker & Owner, WebERealty
-  id: "CA BRE License #: 01928307"
-  phone: "925-452-7483"
-  logo: YHSG-Final11.png
-  menu: Realtor
-  sectionTitle: Get Instant Alerts on Coming Soon listings and homes NOT available online.
 photos:
   menu: Photos
   sectionTitle: Photos
-video:
-  youtubeVideoID: xjpQRTNhbwk
-  menu: Video
-  sectionTitle: Video
 virtualTour:
   title: 'Tracy Hills Residence-1'
   matterportID: XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0
@@ -44,18 +31,3 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
-contact:
-  menu: Contact
-  sectionTitle: Contact
-  mauticForm:
-    formSetName: "bestbuys"
-    emailFormHeader: "Access COMING SOON houses for SALE:"
-    phoneFormHeader: "Best number to reach you?"
-    name: pfbestbuys
-    id: "34"
-    popupForm:
-      enable: false
-      x: 5000
-      y: 3
-      z: 10000
-    pageType: lp

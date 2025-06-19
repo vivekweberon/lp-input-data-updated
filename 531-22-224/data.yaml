@@ -14,8 +14,11 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
+homePageLink:
+  menu: Bestbuys
 homePageData:
-  imageName: a0-5136-SilverReef-Dr.jpg
+  imageName: a0.jpg
   addressLine1: 'Spacious Fremont Single Family Home!'
   addressLine2: ''
   bedsAndBaths: ''

@@ -17,10 +17,6 @@ priceAndFeatures:
 photos:
   menu: Photos
   sectionTitle: Photos
-video:
-  youtubeVideoID: hwQnmiIKjPs
-  menu: Video
-  sectionTitle: Video
 homePageLink:
   menu: Showcase
 homePageData:

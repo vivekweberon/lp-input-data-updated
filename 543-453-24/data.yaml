@@ -16,17 +16,16 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-video:
-  youtubeVideoID: bbbnDmCjLjI
-  menu: Video
+  sectionTitle: Photos
 virtualTour:
   title: Fremont, CA 94555
   matterportID: PHsLSdLoAxU&help=0&hl=2&brand=0&hr=0&mls=2&title=0&pin=0&portal=0
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageLink:
   menu: Bestbuys
 homePageData:
-  imageName: a0-576x3245190Tacoma2020-12-09-17h47m11s675.jpg
+  imageName: a0.jpg
   addressLine1: 'Spacious Fremont Ardenwood condo!'
   addressLine2: ''
   bedsAndBaths: ''

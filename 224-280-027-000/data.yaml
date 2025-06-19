@@ -2,17 +2,17 @@
 siteName:
   - lp-bayrentals
 priceAndFeatures:
-  title1: "Rent: Master Bedroom with attached bath $950/month, Bedroom with shared bathroom $650/month."
+  title1: "Lease this brand new SMART home in Merced"
   title2: ""
   beds: 5 Beds
   baths: 3 Baths
   homeType: Single Family Residence
-  sqft: 'Master Bedroom & Private Bath: $950 per month'
+  sqft: '2814 sq.ft on 4965 sq.ft lot'
   yearBuilt: '2022'
-  price: 'Bedroom with shared bathroom: $650 per month.'
+  price: '$2925/month'
   menu: Price & Features
 description:
-  sectionTitle: 'RENT a room in this Brand New Home!'
+  sectionTitle: 'Solar installed with Smart Home Features'
   content: >
      
      * This home has open floor plan in the kitchen and dining area, stainless steel appliances, a large pantry. 
@@ -26,9 +26,10 @@ description:
      ####  An Absolutely Gorgeous Home for your quiet enjoyment!
 photos:
   menu: Photos
+  sectionTitle: Photos
 virtualTour:
-  sectionTitle: ''
-  title: 'Rent a ROOM in this Brand New Home'
+  sectionTitle: Virtual Tour
+  title: '736 Jessie Dr, Merced, CA'
   matterportID: qBmkB9jqYis
   menu: Virtual Tour
 homePageData:
@@ -36,7 +37,7 @@ homePageData:
   addressLine1: 'Gorgeous Home for RENT in Merced'
   addressLine2: '736 Jessie Dr, Merced, CA.'
   bedsAndBaths: '5 Bed, 3 Bath'
-  price: 'Rent, Master Bedroom with attached bath $950/month, Bedroom with shared bathroom $650/month.'
+  price: '$2,925/month'
   listingPageURL:
 realtor:
   photo: praveen.jpg

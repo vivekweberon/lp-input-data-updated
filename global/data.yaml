@@ -22,11 +22,9 @@ contact:
   menu: Contact
   sectionTitle: Contact
   mauticForm:
-    formSetName: "1925fallbrook"
+    formSetName: "showcase"
     emailFormHeader: "Access COMING SOON houses for SALE:"
     phoneFormHeader: "Best number to reach you?"
-    name: pf1925fallbrook
-    id: "52"
     popupForm:
       enable: false
       x: 5000
@@ -51,6 +49,7 @@ siteSpecific:
       title: Praveen Kumar - Your Home Sold Guaranteed or I"ll Buy it!
     contact:
       menu: Contact
+      sectionTitle: Contact
       mauticForm:
         formSetName: "bestbuys"
         emailFormHeader: "Access COMING SOON houses for SALE:"
@@ -75,12 +74,11 @@ siteSpecific:
       title: Rentals in Bay Area
     contact:
       menu: Contact
+      sectionTitle: Contact
       mauticForm:
         formSetName: "bayrentals"
         emailFormHeader: "Request Private Showing:"
         phoneFormHeader: "Best number to reach you?"
-        name: pfb12tpardekalhtron164
-        id: "32"
         popupForm:
           enable: false
           x: 5000

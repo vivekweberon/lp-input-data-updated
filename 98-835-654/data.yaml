@@ -16,9 +16,6 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-video:
-  youtubeVideoID: qxWvpSkVY_8
-  menu: Video
 homePageLink:
   menu: Showcase
 homePageData:
@@ -28,4 +25,4 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
-propertyPageSectionsOrder: [priceAndFeatures, contact, realtor]  
+propertyPageSectionsOrder: [home, priceAndFeatures, photos, contact, realtor]  

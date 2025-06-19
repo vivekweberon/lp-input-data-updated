@@ -1,8 +1,8 @@
 ---
 siteName:
   - lp-showcase	
-video:
-  menu: Video
+home:
+  menu: Home
   sectionTitle: "Gorgeous Home in Hayward"
   youtubeVideoID: joEu2gHm970
 priceAndFeatures:
@@ -38,4 +38,4 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:    
-propertyPageSectionsOrder: [video, priceAndFeatures, description, virtualTour, photos, contact, realtor]
+propertyPageSectionsOrder: [home, priceAndFeatures, description, virtualTour, photos, contact, realtor]

@@ -17,10 +17,6 @@ priceAndFeatures:
 photos:
   menu: Photos
   sectionTitle: Photos
-video:
-  youtubeVideoID: _YJk4ObZXIg
-  menu: Video
-  sectionTitle: Video
 virtualTour:
   title: Fremont, CA 94536
   matterportID: AquafMTVuqx

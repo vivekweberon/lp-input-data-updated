@@ -12,19 +12,21 @@ priceAndFeatures:
   homeType: Single Family Residence
   sqft: 'Built Area: 2,020 sq.ft, Lot: 6,324 sq.ft'
   yearBuilt: 'Year Built: 1980'
-  price: 'Rent $1,100 per room per month. Master bedroom with attached bath at $1,600'
+  price: '$5,150/month'
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
 virtualTour:
   title: '4822 Plainfield Dr, San Jose, CA 95111'
   matterportID: gcyRQ1Aywfp
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageData:
-  imageName: Thumbnail-A2-4822-plainfield.jpg
+  imageName: A2.jpg
   addressLine1: 'Enjoy "home" living in San Jose, CA while renting your own room.'
   addressLine2: '4 bedrooms, 3 bath.'
-  bedsAndBaths: '$1,100/Room/Month. Master bedroom with attached bath at $1,600/Room/Month'
+  bedsAndBaths: '$5,150/month'
   price: ''
   listingPageURL:
 realtor:
