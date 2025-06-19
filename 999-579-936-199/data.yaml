@@ -1,0 +1,55 @@
+---
+siteName:
+  - lp-bayrentals	
+home:
+  youtubeVideoID: ypiPN8A0FeE
+  menu: Home
+priceAndFeatures:
+  title1: 'RENT this Awesome Single Story Home in Merced, CA!'
+  title2: "Minutes away from UC, Merced. Great neighborhood. Walk to Bob Carpenter Park. Enjoy fruits in the backyard. 3 car parking garage. UC Merced Faculty and students are most welcome. Schedule your visit today."
+  beds: 4 Beds 
+  baths: 2 Baths
+  homeType: Single Story Home
+  sqft: 'Built Area: 1,823 sq.ft, Lot: 6,123 sq.ft'
+  yearBuilt: 'Year Built: 1999'
+  price: 'Rent: $2,550/Month'
+  menu: Price & Features
+photos:
+  menu: Photos
+  sectionTitle: Photos
+virtualTour:
+  title: '1925 Fall Brook Ct, Merced, CA 95340'
+  matterportID: eCzYpBoLUxm
+  menu: Virtual Tour
+  sectionTitle: Virtual Tour
+homePageData:
+  imageName: B2.jpg
+  addressLine1: 'RENT this Awesome Single Story Home in Merced, CA!'
+  addressLine2: '4 BR, 2 bath'
+  bedsAndBaths: '$2,550/Month'
+  price: ''
+  listingPageURL:
+realtor:
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:" 
+  footerLinkText: APPLY ONLINE
+  footerLink: https://propertymanage.biz/apps/application_occupants.php?listing_id=59345937&u=
+contact:
+  menu: Contact
+  sectionTitle: Contact
+  mauticForm:
+    formSetName: "bayrentals"
+    emailFormHeader: "Request Private Showing:"
+    phoneFormHeader: "Best number to reach you?"
+    popupForm:
+      enable: false
+      x: 5000
+      y: 3
+      z: 10000
+    pageType: lp

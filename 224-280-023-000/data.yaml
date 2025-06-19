@@ -1,0 +1,51 @@
+---
+siteName:
+  - lp-bayrentals
+priceAndFeatures:
+  title1: "RENT this Awesome home in Merced"
+  title2: "Enjoy this brand new home with Smart Home features and solar to reduce your electricity bill!"
+  beds: 4 Beds
+  baths: 2.5 Baths
+  homeType: Single Family Residence
+  sqft: Building 1,745 sq/ft
+  yearBuilt: '2022'
+  price: 'Rent: $2,450 per month'
+  menu: Price & Features
+description:
+  sectionTitle: 'Benefits of renting this home'
+  content: >
+     ## Features:
+
+     * Brand new home with 4 bedrooms, 2.5 bath and attached 2 car garage.
+     
+     * Includes Smart Home features to control your front door, inside temperature and your garage door. Powered by Solar system thereby reducing your electricity bill.
+     
+photos:
+  menu: Photos
+  sectionTitle: Photos
+virtualTour:
+  sectionTitle: Virtual Tour
+  title: '710 Jessie Dr, Merced, CA 95348'
+  matterportID: ZKAxCYTGkBa
+  menu: Virtual Tour
+homePageData:
+  imageName: A001.jpg
+  addressLine1: 'Gorgeous Home for RENT in Merced'
+  addressLine2: '710 Jessie Dr, Merced, CA.'
+  bedsAndBaths: '4 Bed, 2.5 Bath and 2 car attached garage.'
+  price: '$2,450 per month'
+  listingPageURL:
+realtor:
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
+  footerLinkText: APPLY ONLINE
+  footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59445968&u='
+page:
+  title: 'Home for RENT in Merced'   
+propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, contact, realtor]

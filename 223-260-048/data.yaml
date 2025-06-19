@@ -1,0 +1,59 @@
+---
+siteName:
+  - lp-bayrentals
+priceAndFeatures:
+  title1: 1713 Arianna Ln, San Ramon, CA 94582
+  beds: 2 Beds
+  baths: 2 Baths
+  homeType: Townhome
+  sqft: 'Building 1211 sq.ft'
+  yearBuilt: '2003'
+  price: 'Rent: $3,250 per month'
+  menu: Price & Features
+description:
+  sectionTitle: 'Benefits of RENTING this Windemere Home'
+  content: >
+    
+     * Walking distance to prestigious schools: Dougherty Valley High School, Gail Ranch Middle School & Windemere Ranch Middle School.
+
+     * Lots of natural sunlight with all rooms in one level consisting of spacious living room with fireplace. dining area and two bedrooms and 2 bathrooms.
+
+     * Tastefully upgraded with new designer flooring throughout the house
+
+     * New blinds in all windows and freshly painted to make it "Ready to move-in" condition
+
+     * Lower level has a 2 car garage.
+
+     * Enjoy the community pool and friendly neighbors.
+
+     * Walking distance to hiking trails, bus stop, Walgreens, Safeway and the prestigious LOT in Bishop Ranch featuring shops and entertainment.
+
+photos:
+  menu: Photos
+  sectionTitle: Photos
+virtualTour:
+  sectionTitle: Virtual Tour
+  title: 'Home in Windemere for RENT'
+  matterportID: FbC8sMQYMQ1
+  menu: 'Virtual Tour'
+homePageData:
+  imageName: 00-Living-Room.jpg
+  addressLine1: 'Awesome Townhome in Windemere for RENT'
+  addressLine2: '1713 Arianna Ln, San Ramon.'
+  bedsAndBaths: '2 Bed, 2 Bath and 2 car attached garage.'
+  price: '$3,250 per month'
+  listingPageURL:
+realtor:
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:"
+  footerLinkText: APPLY ONLINE
+  footerLink: 'https://propertymanage.biz/apps/application_occupants.php?listing_id=59447186&u='
+page:
+  title: 'Home in Windemere for RENT'
+propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, contact, realtor]

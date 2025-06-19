@@ -1,0 +1,42 @@
+---
+siteName:
+  - lp-bayrentals	
+home:
+  youtubeVideoID: fHOzO4kjuuk
+  menu: Home
+priceAndFeatures:
+  title1: 'RENT this newly built, Single Level Home in Merced!'
+  title2: "This home has open floor plan in the kitchen and dining area, having a large island, quartz counters, stainless steel appliances, a large pantry, and a good-sized dining area off the kitchen. The Master Suite is spacious with a walk-in closet and master bath featuring dual sinks, quartz counters, tile floors & a stall shower. The common bath has quartz counters, tile floors & a shower over the tub. Wired with Smart-Home devices to keep you secure. An Absolutely Gorgeous Home for your quiet enjoyment!"
+  beds: 4 Beds 
+  baths: 2 Baths
+  homeType: Single Family Residence
+  sqft: 'Building 1,515 sq.ft'
+  yearBuilt: 'Year Built: 2020'
+  price: '$2,250/month.'
+  menu: Price & Features
+photos:
+  menu: Photos
+  sectionTitle: Photos
+virtualTour:
+  title: '681 Heitz Ct, Merced, CA 95348'
+  matterportID: ivu9GxPJLnW
+  menu: Virtual Tour
+  sectionTitle: Virtual Tour
+homePageData:
+  imageName: C4.jpg
+  addressLine1: 'RENT this newly built, Single Level Home in Merced!'
+  addressLine2: '4 bedrooms, 2 baths.'
+  bedsAndBaths: '$2,250/month.'
+  price: ''
+  listingPageURL:
+realtor:
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:" 
+  footerLinkText: APPLY ONLINE
+  footerLink: https://propertymanage.biz/apps/application_occupants.php?listing_id=59388536&u=

@@ -1,0 +1,42 @@
+---
+siteName:
+  - lp-bayrentals	
+home:
+  youtubeVideoID: dvpLvbMNk40
+  menu: Home
+priceAndFeatures:
+  title1: 'Remodeled and fully upgraded condo for Rent in Walnut Creek.'
+  title2: "Enjoy this tastefully modernized condo within walking distance from BART. Impeccably maintained swimming pool and new appliances."
+  beds: 3 Beds 
+  baths: 2 Baths
+  homeType: Condominium
+  sqft: 'Building 1,088 sq.ft'
+  yearBuilt: 'Year Built: 1963'
+  price: '$3,250 per month.'
+  menu: Price & Features
+photos:
+  menu: Photos
+  sectionTitle: Photos
+virtualTour:
+  title: '2600 Jones Rd, #22, Walnut Creek, CA 94597'
+  matterportID: LTp8dPm3WTn
+  menu: Virtual Tour
+  sectionTitle: Virtual Tour
+homePageData:
+  imageName: A0.jpg
+  addressLine1: 'Remodeled and fully upgraded condo for Rent in Walnut Creek.'
+  addressLine2: '3 bedrooms, 2 bath.'
+  bedsAndBaths: '$3,250 per month.'
+  price: ''
+  listingPageURL:
+realtor:
+  photo: praveen.jpg
+  logo: TransparentPixel.png
+  name: Praveen Kumar
+  company: Broker & Owner, WebERealty
+  id: "CA BRE License #: 01928307"
+  phone: "925-452-7483"
+  menu: Realtor
+  sectionTitle: "Get Instant Alerts on homes NOT available online. Call:" 
+  footerLinkText: APPLY ONLINE
+  footerLink: https://propertymanage.biz/apps/application_occupants.php?listing_id=59353174&u=
