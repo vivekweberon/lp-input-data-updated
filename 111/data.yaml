@@ -31,3 +31,7 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
+siteSpecific:
+  lp-showcase:  
+    virtualTour:
+      disable: true
