@@ -3,9 +3,9 @@ siteName:
   - lp-bestbuys
   - lp-bayrentals
 showcase:
-  menuVivek: Showcase
+  menu: Showcase
   properties:
-  sectionTitle: Showcase
+  sectionTitle: 
 homePageSectionsOrder: [showcase, contact, realtor]
 siteSpecific:
   lp-bestbuys:
