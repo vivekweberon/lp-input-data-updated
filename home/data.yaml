@@ -2,8 +2,8 @@ siteName:
   - lp-showcase
   - lp-bestbuys
   - lp-bayrentals
-showcase1:
-  menu: Showcase
+showcase:
+  menuVivek: Showcase
   properties:
   sectionTitle: Showcase
 homePageSectionsOrder: [showcase, contact, realtor]

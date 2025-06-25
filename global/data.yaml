@@ -3,8 +3,8 @@ siteName:
   - lp-showcase
   - lp-bestbuys
   - lp-bayrentals
-realtor1:
-  photo: praveen11.jpg
+realtor:
+  photoVivek: praveen11.jpg
   name: Praveen Kumar
   company: Broker & Owner, WebERealty
   id: "CA BRE License #: 01928307"
