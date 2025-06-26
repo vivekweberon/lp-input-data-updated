@@ -16,13 +16,12 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-video:
-  youtubeVideoID: g1i0SGvp-T8
-  menu: Video
+  sectionTitle: Photos
 virtualTour:
   title: 'Tracy Hills Residence-4'
   matterportID: cRdhqTMC6wH&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageLink: 
   menu: Showcase
 homePageData:

@@ -18,8 +18,9 @@ description:
      * Rent this Brand new home with 4 bedrooms, 3 bath and attached 2 car garage. Includes Smart Home features to control your front door, inside temperature and your garage door. Powered by Solar system thereby reducing your electricity bill.
 photos:
   menu: Photos
+  sectionTitle: Photos
 virtualTour:
-  sectionTitle: ''
+  sectionTitle: Virtual Tour
   title: 'Brand New Home for RENT in Merced'
   matterportID: eLoUeh9r1YF
   menu: Virtual Tour

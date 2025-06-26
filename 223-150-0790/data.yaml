@@ -1,8 +1,6 @@
 ---
 siteName:
   - lp-showcase
-home:
-  menu: Home
 priceAndFeatures:
   title1: "Beautiful San Ramon Home"
   title2: "Beautiful single family San Ramon Home. Built in 2002 on a 4911 sq.ft lot."
@@ -14,6 +12,7 @@ priceAndFeatures:
   price: '$2,055,728'
   menu: Price & Features
 description:
+  sectionTitle: Description
   content: >
      ## Awesome home in the quiet Windemere community 
      
@@ -26,18 +25,15 @@ description:
 photos:
   menu: Photos
   sectionTitle: "Awesome San Ramon Home"
-video:
-  sectionTitle: " "
-  youtubeVideoID: 
-  menu: Video  
 virtualTour:
   title: San Ramon, CA 94582
   matterportID: TrGwES3vmzu&title=0
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageLink:
   menu: Showcase
 homePageData:
-  imageName: A002-doowelra004-living-1-4.jpg
+  imageName: A8.jpg
   addressLine1: 'Awesome San Ramon Home'
   addressLine2: ''
   bedsAndBaths: '4 Bedroom, 3 bath. 2494 sq.ft on 4011 sq.ft lot. Built in 2002'

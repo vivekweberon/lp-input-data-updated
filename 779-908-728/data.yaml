@@ -16,12 +16,14 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
 virtualTour:
   title: '2600 Jones Rd, #22, Walnut Creek, CA 94597'
   matterportID: LTp8dPm3WTn
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageData:
-  imageName: Walnut-Creek-Home-near-BART.jpg
+  imageName: A0.jpg
   addressLine1: 'Remodeled and fully upgraded condo for Rent in Walnut Creek.'
   addressLine2: '3 bedrooms, 2 bath.'
   bedsAndBaths: '$3,250 per month.'

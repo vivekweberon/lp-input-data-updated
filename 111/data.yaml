@@ -16,14 +16,12 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-propertyPageSectionsOrder: [priceAndFeatures, realtor, virtualTour, video, photos, contact]
-video:
-  youtubeVideoID: xjpQRTNhbwk
-  menu: Video
+  sectionTitle: Photos
 virtualTour:
   title: 'Tracy Hills Residence-1'
   matterportID: XF9HmuP3iE2&mls=2&brand=0&hr=0&gt=0&dh=0&help=2&qs=1&title=0&portal=0
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageLink:
   menu: Showcase
 homePageData:
@@ -33,9 +31,3 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:
-chatbot:
-  chatbotDFAgent: default
-siteSpecific:
-  lp-showcase:
-    realtor:
-      disable: true

@@ -16,12 +16,14 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
 virtualTour:
   title: '681 Heitz Ct, Merced, CA 95348'
   matterportID: ivu9GxPJLnW
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageData:
-  imageName: Thumbnail-A3-681Heitz-Family-1.jpg
+  imageName: C4.jpg
   addressLine1: 'RENT this newly built, Single Level Home in Merced!'
   addressLine2: '4 bedrooms, 2 baths.'
   bedsAndBaths: '$2,250/month.'

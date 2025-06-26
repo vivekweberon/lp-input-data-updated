@@ -16,13 +16,11 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-video:
-  youtubeVideoID: dvpLvbMNk40
-  menu: Video
+  sectionTitle: Photos
 homePageLink:
   menu: Showcase
 homePageData:
-  imageName: Walnut-Creek-Home-near-BART.jpg
+  imageName: C9-Home-near-BART.jpg
   addressLine1: 'Walnut Creek Home near BART'
   addressLine2: ''
   bedsAndBaths: ''

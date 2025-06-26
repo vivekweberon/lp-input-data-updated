@@ -1,8 +1,6 @@
 ---
 siteName:
   - lp-showcase
-home:
-  menu: Home
 priceAndFeatures:
   title1: 'Sip your coffee and watch the Sun rise in San Ramon!'
   title2: "This beautiful home sits on a 7,570 sq.ft premium corner lot with a stunning panoramic view. Lots of windows bring in abundant natural light. A large kitchen featuring granite countertop and island, walk-in pantry, and stainless steel appliances. One bedroom and full bathroom in the ground floor. Master bedroom has a balcony to enjoy the panoramic view. Tankless water heater, solar that is owned and only minutes away from Costco and Home Depot in San Ramon. Clubhouse and swimming pool for the exclusive use of residents in this community."
@@ -15,10 +13,12 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
+  sectionTitle: Photos
 virtualTour:
   title: 518 Caprio Ct, San Ramon, CA 94583
   matterportID: rrbAygC4Lxs
   menu: Virtual Tour
+  sectionTitle: Virtual Tour
 homePageLink:
   menu: Showcase
 homePageData:
