@@ -65,12 +65,14 @@ siteSpecific:
 
     photos:
       menu: Photos
+      sectionTitle: Photos
     virtualTour:
       title: 2120 N Donovan Way, San Ramon, CA 94582
       matterportID: J1VE4YwZdx4
       menu: Virtual Tour
+      sectionTitle: Virtual Tour
     homePageData:
-      url: images/01-Kitchen-Nook-Living.jpg
+      imageName: 01-Kitchen-Nook-Living.jpg
       addressLine1: 'Awesome San Ramon Home'
       addressLine2: ''
       bedsAndBaths: '3 Bedroom, 2 full & 1 partial bath. 1646 sq.ft on 4011 sq.ft lot. Built in 2003'
