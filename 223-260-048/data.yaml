@@ -30,9 +30,8 @@ description:
 
 photos:
   menu: Photos
-  sectionTitle: Photos
 virtualTour:
-  sectionTitle: Virtual Tour
+  sectionTitle: ''
   title: 'Home in Windemere for RENT'
   matterportID: FbC8sMQYMQ1
   menu: 'Virtual Tour'

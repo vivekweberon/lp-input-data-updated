@@ -2,11 +2,12 @@
 siteName:
   - lp-bestbuys
 propertyPageSectionsOrder: [priceAndFeatures, virtualTour, photos, contact, realtor]
+home:
+  menu: Home
 virtualTour:
   title: Discovery Bay, CA 94505
   matterportID: 57TqrkccJsy&help=0&hl=2&brand=0&hr=0&mls=2&title=0&pin=0&portal=0
   menu: Virtual Tour
-  sectionTitle: Virtual Tour
 priceAndFeatures:
   title1: Discovery Bay, CA 94505
   title2: "$874,900"
@@ -19,9 +20,6 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-  sectionTitle: Photos
-homePageLink:
-  menu: Bestbuys
 homePageData:
   imageName: discovery_bay.jpg
   addressLine1: 'Elegant Discovery Bay Single Family Home!'

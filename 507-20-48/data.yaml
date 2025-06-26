@@ -15,12 +15,13 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-  sectionTitle: Photos
+video:
+  youtubeVideoID: JlvMhD8p0dM
+  menu: Video
 virtualTour:
   title: '36184 Potel Cmn, Fremont, CA 94536'
   matterportID: WRUxVoHjY8i
   menu: Virtual Tour
-  sectionTitle: Virtual Tour
 homePageLink:
   menu: Showcase
 homePageData:

@@ -1,9 +1,6 @@
 ---
 siteName:
   - lp-bayrentals	
-home:
-  youtubeVideoID: ypiPN8A0FeE
-  menu: Home
 priceAndFeatures:
   title1: 'RENT this Awesome Single Story Home in Merced, CA!'
   title2: "Minutes away from UC, Merced. Great neighborhood. Walk to Bob Carpenter Park. Enjoy fruits in the backyard. 3 car parking garage. UC Merced Faculty and students are most welcome. Schedule your visit today."
@@ -16,14 +13,15 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-  sectionTitle: Photos
+video:
+  youtubeVideoID: ypiPN8A0FeE
+  menu: Video
 virtualTour:
   title: '1925 Fall Brook Ct, Merced, CA 95340'
   matterportID: eCzYpBoLUxm
   menu: Virtual Tour
-  sectionTitle: Virtual Tour
 homePageData:
-  imageName: B2.jpg
+  imageName: Thumbnail-Merced1925FallBrookCourt-LivingRoom11.jpg
   addressLine1: 'RENT this Awesome Single Story Home in Merced, CA!'
   addressLine2: '4 BR, 2 bath'
   bedsAndBaths: '$2,550/Month'
@@ -42,9 +40,8 @@ realtor:
   footerLink: https://propertymanage.biz/apps/application_occupants.php?listing_id=59345937&u=
 contact:
   menu: Contact
-  sectionTitle: Contact
   mauticForm:
-    formSetName: "bayrentals"
+    formSetName: "1925fallbrook"
     emailFormHeader: "Request Private Showing:"
     phoneFormHeader: "Best number to reach you?"
     popupForm:

@@ -1,8 +1,8 @@
 ---
 siteName:
   - lp-showcase	
-home:
-  menu: Home
+video:
+  menu: Video
   sectionTitle: "Gorgeous Home in Hayward"
   youtubeVideoID: joEu2gHm970
 priceAndFeatures:
@@ -26,11 +26,9 @@ description:
     * Spacious Backyard with Deck and Play area
 photos:
   menu: Photos
-  sectionTitle: Photos
 virtualTour:
   menu: Virtual Tour
   matterportID: 7evZMbzQ1gK
-  sectionTitle: Virtual Tour
 homePageData:
   imageName: 44-Family-Room2.jpg
   addressLine1: 'Luxurious Country Club Hayward'
@@ -38,4 +36,4 @@ homePageData:
   bedsAndBaths: ''
   price: ''
   listingPageURL:    
-propertyPageSectionsOrder: [home, priceAndFeatures, description, virtualTour, photos, contact, realtor]
+propertyPageSectionsOrder: [video, priceAndFeatures, description, virtualTour, photos, contact, realtor]

@@ -3,15 +3,16 @@ siteName:
   - lp-showcase
   - lp-bestbuys
   - lp-bayrentals
+  - lp-test
 realtor:
-  photo: praveen11.jpg
+  photo: praveen.jpg
   name: Praveen Kumar
   company: Broker & Owner, WebERealty
   id: "CA BRE License #: 01928307"
   phone: "925-452-7483"
   logo: YHSG-Final.png
   menu: Realtor
-  sectionTitle: Get Instant Alerts on Coming Soon listings and homes NOT available online.
+  sectionTitle: Testing - Get Instant Alerts on Coming Soon listings and homes NOT available online.
 footer:
   line1: Information courtesy of Praveen Kumar 01928307 @ WebERealty
   line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
@@ -20,7 +21,6 @@ page:
   title: Praveen Kumar - Your Home Sold Guaranteed.  
 contact:
   menu: Contact
-  sectionTitle: Contact
   mauticForm:
     formSetName: "showcase"
     emailFormHeader: "Access COMING SOON houses for SALE:"
@@ -41,7 +41,7 @@ siteSpecific:
       phone: "925-452-7483"
       logo: YHSG-Final.png
       menu: Realtor
-      sectionTitle: Courtesy Of
+      sectionTitle: Testing - Courtesy Of
       footerText: More info on our Guarantee at
       footerLinkText: EastBayGuaranteedSale.com
       footerLink: https://www.weberealty.com/lp-ebgs.html
@@ -49,7 +49,6 @@ siteSpecific:
       title: Praveen Kumar - Your Home Sold Guaranteed or I"ll Buy it!
     contact:
       menu: Contact
-      sectionTitle: Contact
       mauticForm:
         formSetName: "bestbuys"
         emailFormHeader: "Access COMING SOON houses for SALE:"
@@ -74,7 +73,6 @@ siteSpecific:
       title: Rentals in Bay Area
     contact:
       menu: Contact
-      sectionTitle: Contact
       mauticForm:
         formSetName: "bayrentals"
         emailFormHeader: "Request Private Showing:"

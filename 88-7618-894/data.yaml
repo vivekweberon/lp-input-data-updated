@@ -16,16 +16,17 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-  sectionTitle: Photos
+video:
+  youtubeVideoID: _YJk4ObZXIg
+  menu: Video
 virtualTour:
   title: Fremont, CA 94536
   matterportID: AquafMTVuqx
   menu: Virtual Tour
-  sectionTitle: Virtual Tour
 homePageLink:
   menu: Showcase
 homePageData:
-  imageName: A01-Living-Room-576x324.jpg
+  imageName: A01-Fremont-Blvd-Townhome-Living-Room-576x324.jpg
   addressLine1: 'Newly Constructed Home in Fremont'
   addressLine2: 'Available Now'
   bedsAndBaths: 'Call for private showing'

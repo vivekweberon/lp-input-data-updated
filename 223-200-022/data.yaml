@@ -1,6 +1,8 @@
 ---
 siteName:
   - lp-showcase
+home:
+  menu: Home
 priceAndFeatures:
   title1: "Beautiful San Ramon Home"
   title2: "Welcome to this massively upgraded, better-than-new Northeast facing home on a corner lot. Walking distance to the top rated Hidden Hills Elementary. Granite kitchen with pantry open to the family room with cozy fireplace and built-in audio cabinet. Separate living room for quiet time away from the TV. Ceiling fans and wood floors throughout the home. Master suite with dual sinks, walk in closet and soaking tub with spacious secondary bedrooms. Upgrades include flooring, custom window treatments, 15 solar panels that are owned for extra capacity for electric car, water softening system and extensive built ins in the garage. Low maintenance yard with stamped concrete, artificial turf and attractive foliage for shade and privacy. Built in 2003 on a 4011 sq.ft lot."
@@ -13,12 +15,10 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-  sectionTitle: Photos
 virtualTour:
   title: 2120 N Donovan Way, San Ramon, CA 94582
   matterportID: 7iw81R2pGZS
   menu: Virtual Tour
-  sectionTitle: Virtual Tour
 homePageLink:
   menu: Showcase
 homePageData:

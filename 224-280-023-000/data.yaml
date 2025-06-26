@@ -22,9 +22,8 @@ description:
      
 photos:
   menu: Photos
-  sectionTitle: Photos
 virtualTour:
-  sectionTitle: Virtual Tour
+  sectionTitle: ''
   title: '710 Jessie Dr, Merced, CA 95348'
   matterportID: ZKAxCYTGkBa
   menu: Virtual Tour

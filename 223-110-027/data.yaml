@@ -2,7 +2,7 @@
 siteName:
   - lp-showcase	
 home:
-  youtubeVideoID: 6mZHkjM9evw
+  youtubeVideoID: # This is for background video and is not used
   menu: Home
 priceAndFeatures:
   title1: Awesome home for Sale in Windemere, San Ramon
@@ -37,17 +37,19 @@ description:
     ## [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-1477-allanmeredr-sanramon'))
 photos:
   menu: Photos
-  sectionTitle: Photos
+video:
+  sectionTitle: " "
+  youtubeVideoID: 6mZHkjM9evw
+  menu: Video
 virtualTour:
   title: 'Awesome Single Family Residence in Windemere'
   matterportID: fp83r7J6ekZ
   menu: Virtual Tour
-  sectionTitle: Virtual Tour
 homePageData:
-  imageName: A4.jpg
+  imageName: Luxurious-San-Ramon-Home-Bathroom-1-A4.jpg
   addressLine1: 'Luxurious Single family Residence in Windemere San Ramon'
   addressLine2: ''
   bedsAndBaths: '4 Bed 3 Bath'
   price: ''
   listingPageURL:
-propertyPageSectionsOrder: [home, virtualTour, priceAndFeatures, description, photos, contact, realtor]
+propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, video, contact, realtor]

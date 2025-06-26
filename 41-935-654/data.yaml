@@ -16,11 +16,13 @@ priceAndFeatures:
   menu: Price & Features
 photos:
   menu: Photos
-  sectionTitle: Photos
+video:
+  youtubeVideoID: hwQnmiIKjPs
+  menu: Video
 homePageLink:
   menu: Showcase
 homePageData:
-  imageName: a0-12h10m41s905.jpg
+  imageName: a0-34157Donahue2020-12-07-12h10m41s905.jpg
   addressLine1: 'Stunning Ardenwood Home - SOLD!'
   addressLine2: ''
   bedsAndBaths: ''
