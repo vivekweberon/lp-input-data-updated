@@ -160,3 +160,5 @@ siteSpecific:
       line3: praveen@weberealty.com
     page:
       title: Open House
+    contact:
+      disable: true
