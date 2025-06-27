@@ -4,6 +4,7 @@ siteName:
   - lp-bayrentals
   - lp-yawnavonod0212
   - lp-b-12tpardekalhtron164
+  - lp-openhouse
 showcase:
   menu: Showcase
   properties:
@@ -30,3 +31,8 @@ siteSpecific:
       menu: Showcase
       properties:
       sectionTitle: Showcase
+  lp-openhouse:
+    showcase:
+      menu: Openhouse
+      properties:
+      sectionTitle: Openhouse
