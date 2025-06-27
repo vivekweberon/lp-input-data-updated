@@ -1,0 +1,50 @@
+---
+siteName:
+  - lp-b-12tpardekalhtron164	
+priceAndFeatures:
+  title1: "Awesome San Jose Condo"
+  title2: "Move-in Ready! Built in 1985 and recently upgraded"
+  beds: 2 Beds
+  baths: 2 Baths
+  homeType: Condominium
+  sqft: Building 1,191 sq/ft
+  yearBuilt: 'Year Built: 1985'
+  price: '$749,000 HOA $444/mo'
+  menu: Price & Features
+description:
+  content: >
+     ## Awesome San Jose Condo
+
+     * Beautiful community with swimming pool, hot tub and sauna.
+      
+     * Upgraded kitchen and appliances, bathrooms, hardwood floors, woodburning fireplace, mirrored closets
+     
+     * Large patio and a front porch
+
+     * Two designated spots in gated underground parking and a separate guest parking lot.
+
+     * Walking distance to Harker school, bus stops, stores, Santana Row, Westfield Mall
+
+     * Well connected to highways - I-280, Stevens Creek Blvd, San Thomas Expwy, Lawrence Expwy
+     
+     * Short 10 min commute to Apple Campus
+     
+     * [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-461northlake-21'))
+photos:
+  menu: Photos
+  sectionTitle: "Photos"
+virtualTour:
+  title: 461 Northlake Dr Apt 21, San Jose, CA 95117
+  menu: Virtual Tour
+  matterportID: Z2SRhwER3bp&play=1&ts=1
+  sectionTitle: "Virtual Tour"
+homePageLink:
+  menu: Showcase
+homePageData:
+  imageName: 800_living.jpg
+  addressLine1: 'Awesome San Jose Condo'
+  addressLine2: ''
+  bedsAndBaths: '2 Bedroom, 2 Bath 1,191 sq.ft, Built in 1985, and recently upgraded'
+  price: ''
+  listingPageURL:
+propertyPageSectionsOrder: [virtualTour, photos, priceAndFeatures, description, contact, realtor]  

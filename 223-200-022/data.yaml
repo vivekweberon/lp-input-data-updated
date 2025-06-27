@@ -31,6 +31,8 @@ homePageData:
   listingPageURL:
 siteSpecific:
   lp-yawnavonod0212:
+    homePageLink:
+      menu: Showcase
     priceAndFeatures:
       title1: "Awesome Windemere, San Ramon home for Sale or Trade"
       title2: "Price Reduced by $100K "

@@ -3,6 +3,7 @@ siteName:
   - lp-bestbuys
   - lp-bayrentals
   - lp-yawnavonod0212
+  - lp-b-12tpardekalhtron164
 showcase:
   menu: Showcase
   properties:
@@ -20,6 +21,11 @@ siteSpecific:
       properties: 
       sectionTitle: Rentals in Bay Area
   lp-yawnavonod0212:
+    showcase:
+      menu: Showcase
+      properties:
+      sectionTitle: Showcase
+  lp-b-12tpardekalhtron164:
     showcase:
       menu: Showcase
       properties:
