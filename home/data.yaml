@@ -5,6 +5,7 @@ siteName:
   - lp-yawnavonod0212
   - lp-b-12tpardekalhtron164
   - lp-rderemnalla7741
+  - lp-nlannaira3171
 showcase:
   menu: Showcase
   properties:
@@ -32,6 +33,11 @@ siteSpecific:
       properties:
       sectionTitle: showcase
   lp-rderemnalla7741:
+    showcase:
+      menu: Showcase
+      properties:
+      sectionTitle: Showcase
+  lp-nlannaira3171:
     showcase:
       menu: Showcase
       properties:

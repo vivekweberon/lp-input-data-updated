@@ -1,6 +1,7 @@
 ---
 siteName:
   - lp-bayrentals
+  - lp-nlannaira3171
 priceAndFeatures:
   title1: 1713 Arianna Ln, San Ramon, CA 94582
   beds: 2 Beds
@@ -57,3 +58,47 @@ realtor:
 page:
   title: 'Home in Windemere for RENT'
 propertyPageSectionsOrder: [virtualTour, priceAndFeatures, description, photos, contact, realtor]
+siteSpecific:
+  lp-nlannaira3171:
+    priceAndFeatures:
+      title1: 1713 Arianna Ln, San Ramon, CA 94582
+      beds: 2 Beds
+      baths: 2 Baths
+      homeType: Townhome
+      sqft: Building 1211 sq.ft
+      yearBuilt: 'Year Built: 2003'
+      price: 'HOA: $240 per month'
+      menu: Price & Features
+    description:
+      content: >
+        ## Awesome home in the quiet Windemere Shelbourne community 
+
+        * Walking distance to prestigious schools: Dougherty Valley High School, Gail Ranch Middle School & Windemere Ranch Middle School.
+
+        * Lots of natural sunlight with all rooms in one level consisting of spacious living room with fireplace. dining area and two bedrooms and 2 bathrooms.
+
+        * Tastefully upgraded with new designer flooring throughout the house
+
+        * New blinds in all windows and freshly painted to make it "Ready to move-in" condition
+
+        * Lower level has a 2 car garage.
+
+        * Enjoy the community pool and friendly neighbors.
+
+        * Walking distance to hiking trails, bus stop, Walgreens, Safeway and the prestigious LOT in Bishop Ranch featuring shops and entertainment.
+
+
+        ## [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-1713-ariannaln-sanramon'))
+    photos:
+      menu: Photos
+    virtualTour:
+      title: 'Awesome home in Windemere'
+      matterportID: FbC8sMQYMQ1
+      menu: Virtual Tour
+    homePageData:
+      url: images/00-Living-Room.jpg
+      addressLine1: Coming soon
+      addressLine2: Awesome home in Windemere
+      bedsAndBaths: '2 Bed 2 Bath'
+      price: ''
+      listingPageURL:
