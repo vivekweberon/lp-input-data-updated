@@ -5,7 +5,7 @@ siteName:
   - lp-bayrentals
   - lp-yawnavonod0212
   - lp-b-12tpardekalhtron164
-  - lp-openhouse
+  - lp-rderemnalla7741
 realtor:
   photo: praveen.jpg
   name: Praveen Kumar
@@ -144,7 +144,7 @@ siteSpecific:
           y: 3
           z: 10000
         pageType: lp
-  lp-openhouse:
+  lp-rderemnalla7741:
     realtor:
       photo: praveen.jpg
       name: Praveen Kumar
@@ -159,6 +159,16 @@ siteSpecific:
       line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
       line3: praveen@weberealty.com
     page:
-      title: Open House
+      title: Praveen Kumar - Your Home Sold Guaranteed or I"ll Buy it!  
     contact:
-      disable: true
+      menu: Contact
+      mauticForm:
+        formSetName: "rderemnalla7741_21Jun22_postcard"
+        emailFormHeader: "Access COMING SOON houses for SALE:"
+        phoneFormHeader: "Best number to reach you?"
+        popupForm:
+          enable: false
+          x: 5000
+          y: 3
+          z: 10000
+        pageType: lp
