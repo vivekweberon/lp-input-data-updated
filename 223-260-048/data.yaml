@@ -96,7 +96,7 @@ siteSpecific:
       matterportID: FbC8sMQYMQ1
       menu: Virtual Tour
     homePageData:
-      url: images/00-Living-Room.jpg
+      imageName: 00-Living-Room.jpg
       addressLine1: Coming soon
       addressLine2: Awesome home in Windemere
       bedsAndBaths: '2 Bed 2 Bath'
