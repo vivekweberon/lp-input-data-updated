@@ -204,15 +204,15 @@ siteSpecific:
         pageType: lp
   lp-doowelra004:
     realtor:
-      photo: images/praveen.jpg
+      photo: praveen.jpg
       name: Praveen Kumar
       company: Broker & Owner, WebERealty
       id: "CA BRE License #: 01928307"
       phone: "925-452-7483"
-      logo: images/YHSG-Final.png
+      logo: YHSG-Final.png
       menu: Realtor
       sectionTitle: Get Instant Alerts on Coming Soon listings and homes NOT available online.
-    footertext:
+    footer:
       line1: Information courtesy of Praveen Kumar 01928307 @ WebERealty
       line2: "12935 Alcosta Blvd. #3681, San Ramon ,California, 94583"
       line3: praveen@weberealty.com
