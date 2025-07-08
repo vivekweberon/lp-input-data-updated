@@ -6,6 +6,7 @@ siteName:
   - lp-b-12tpardekalhtron164
   - lp-rderemnalla7741
   - lp-nlannaira3171
+  - lp-doowelra004
 showcase:
   menu: Showcase
   properties:
@@ -38,6 +39,11 @@ siteSpecific:
       properties:
       sectionTitle: Showcase
   lp-nlannaira3171:
+    showcase:
+      menu: Showcase
+      properties:
+      sectionTitle: Showcase
+  lp-doowelra004:
     showcase:
       menu: Showcase
       properties:

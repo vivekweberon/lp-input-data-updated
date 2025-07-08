@@ -1,6 +1,7 @@
 ---
 siteName:
   - lp-showcase
+  - lp-doowelra004
 priceAndFeatures:
   title1: "Beautiful San Ramon Home"
   title2: "Beautiful single family San Ramon Home. Built in 2002 on a 4911 sq.ft lot."
@@ -21,7 +22,6 @@ description:
      * Walking distance to hiking trails, bus stop, Walgreens, Safeway and the prestigious LOT in Bishop Ranch featuring shops and entertainment.
      
      * Enjoy the quiet community and friendly neighbors.
-
 photos:
   menu: Photos
   sectionTitle: "Awesome San Ramon Home"
@@ -40,3 +40,42 @@ homePageData:
   price: ''
   listingPageURL:
 propertyPageSectionsOrder: [virtualTour, photos, priceAndFeatures, description, contact, realtor]  
+siteSpecific:
+  priceAndFeatures:
+    title1: "Awesome San Ramon Home"
+    title2: "Beautiful single family San Ramon Home. Built in 2002 on a 4911 sq.ft lot."
+    beds: 4 Beds
+    baths: 3 Baths
+    homeType: Single Family Residence
+    sqft: Building 2,494 sq/ft
+    yearBuilt: 'Year Built: 2002'
+    price: '$1,899,000'
+    menu: Price & Features
+  description:
+    content: >
+      ## Awesome home in the quiet Windemere community 
+      
+      * North & East facing home.
+
+      * Walking distance to prestigious schools.
+      
+      * Walking distance to hiking trails, bus stop, Walgreens, Safeway and the prestigious LOT in Bishop Ranch featuring shops and entertainment.
+      
+      * Enjoy the quiet community and friendly neighbors.
+
+      * [Schedule Appointment](javascript:openModal('https://calendly.com/yourhomesoldguaranteed/tour-400-arlewoodct-sanramon'))
+  photos:
+    menu: Photos
+    sectionTitle: "Awesome San Ramon Home"
+  virtualTour:
+    title: 400 Arlewood Ct, San Ramon, CA 94582
+    matterportID: TrGwES3vmzu
+    menu: Virtual Tour
+  homePageData:
+    url: images/A002-400arlewoodct-living-1-4.jpg
+    addressLine1: 'Awesome San Ramon Home'
+    addressLine2: ''
+    bedsAndBaths: '4 Bedroom, 3 bath. 2494 sq.ft on 4011 sq.ft lot. Built in 2002'
+    price: ''
+    listingPageURL:
+  propertyPageSectionsOrder: [virtualTour, photos, priceAndFeatures, description, contact, realtor]
