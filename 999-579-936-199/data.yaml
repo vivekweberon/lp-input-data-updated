@@ -40,16 +40,3 @@ realtor:
   sectionTitle: "Get Instant Alerts on homes NOT available online. Call:" 
   footerLinkText: APPLY ONLINE
   footerLink: https://propertymanage.biz/apps/application_occupants.php?listing_id=59345937&u=
-contact:
-  menu: Contact
-  sectionTitle: Contact
-  mauticForm:
-    formSetName: "bayrentals"
-    emailFormHeader: "Request Private Showing:"
-    phoneFormHeader: "Best number to reach you?"
-    popupForm:
-      enable: false
-      x: 5000
-      y: 3
-      z: 10000
-    pageType: lp

@@ -27,7 +27,8 @@ contact:
   menu: Contact
   sectionTitle: Contact
   mauticForm:
-    formSetName: "showcase"
+    formName: "pfshowcase"
+    formID: 32
     emailFormHeader: "Access COMING SOON houses for SALE:"
     phoneFormHeader: "Best number to reach you?"
     popupForm:
@@ -56,7 +57,8 @@ siteSpecific:
       menu: Contact
       sectionTitle: Contact
       mauticForm:
-        formSetName: "bestbuys"
+        formName: "pfbestbuys"
+        formID: 34
         emailFormHeader: "Access COMING SOON houses for SALE:"
         phoneFormHeader: "Best number to reach you?"
         popupForm:
@@ -81,7 +83,8 @@ siteSpecific:
       menu: Contact
       sectionTitle: Contact
       mauticForm:
-        formSetName: "bayrentals"
+        formName: "pfbayrentals"
+        formID: 33
         emailFormHeader: "Request Private Showing:"
         phoneFormHeader: "Best number to reach you?"
         popupForm:
@@ -109,7 +112,8 @@ siteSpecific:
     contact:
       menu: Contact
       mauticForm:
-        formSetName: "yawnavonod0212"
+        formName: "pfyawnavonod0212"
+        formID: 112
         emailFormHeader: "Access COMING SOON houses for SALE:"
         phoneFormHeader: "Best number to reach you?"
         popupForm:
@@ -137,7 +141,8 @@ siteSpecific:
     contact:
       menu: Contact
       mauticForm:
-        formSetName: "b-12tpardekalhtron164"
+        formName: "pfb12tpardekalhtron164"
+        formID: 139
         emailFormHeader: "Access COMING SOON houses for SALE:"
         phoneFormHeader: "Best number to reach you?"
         popupForm:
@@ -165,7 +170,8 @@ siteSpecific:
     contact:
       menu: Contact
       mauticForm:
-        formSetName: "rderemnalla7741_21Jun22_postcard"
+        formName: "pfrderemnalla774121jun22postcard"
+        formID: 105
         emailFormHeader: "Access COMING SOON houses for SALE:"
         phoneFormHeader: "Best number to reach you?"
         popupForm:
@@ -193,7 +199,8 @@ siteSpecific:
     contact:
       menu: Contact
       mauticForm:
-        formSetName: "nlannaira3171"
+        formName: "pfnlannaira3171"
+        formID: 103
         emailFormHeader: "Request additional Information:"
         phoneFormHeader: "Best number to reach you?"
         popupForm:
