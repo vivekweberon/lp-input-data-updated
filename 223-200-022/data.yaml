@@ -89,4 +89,5 @@ siteSpecific:
       bedsAndBaths: '3 Bedroom, 2 full & 1 partial bath. 1646 sq.ft on 4011 sq.ft lot. Built in 2003'
       price: ''
       listingPageURL: /lp-yawnavonod0212/779-997-677?utm_campaign=yawnavonod0212
-    createPage: false
+    createPage:
+      disable: true
