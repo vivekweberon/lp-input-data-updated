@@ -1,15 +1,19 @@
----
 siteName:
   - lp-bestbuys
-propertyPageSectionsOrder: [priceAndFeatures, virtualTour, photos, contact, realtor]
+propertyPageSectionsOrder:
+  - priceAndFeatures
+  - virtualTour
+  - photos
+  - contact
+  - realtor
 virtualTour:
   title: Discovery Bay, CA 94505
   matterportID: 57TqrkccJsy&help=0&hl=2&brand=0&hr=0&mls=2&title=0&pin=0&portal=0
   menu: Virtual Tour
   sectionTitle: Virtual Tour
 priceAndFeatures:
-  title1: Discovery Bay, CA 94505
-  title2: "$874,900"
+  title1: Discovery Bay, CA 94505 - vivek
+  title2: $874,900
   beds: 4 Beds
   baths: 3 Baths
   homeType: Single Family Residence
@@ -24,8 +28,8 @@ homePageLink:
   menu: Bestbuys
 homePageData:
   imageName: discovery_bay.jpg
-  addressLine1: 'Elegant Discovery Bay Single Family Home!'
+  addressLine1: Elegant Discovery Bay Single Family Home!
   addressLine2: ''
   bedsAndBaths: ''
   price: ''
-  listingPageURL:
+  listingPageURL: ~
